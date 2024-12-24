@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @Kishore-1803
-- 👀 I’m interested in Coding and Learning.
-- 📫 How to reach me : Instagram - kishore_balaji_03
-
-<!---
-Kishore-1803/Kishore-1803 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi there! 👋 I'm Kishore Balaji
+🎓 4th Semester B.Tech CSE (AI specialization) student.
+👀 Passionate about Coding, Learning, and exploring AI technologies.
+🌟 Enthusiast in open-source contributions and building innovative projects.
+🌱 Currently enhancing my skills in web development and AI-driven applications.
