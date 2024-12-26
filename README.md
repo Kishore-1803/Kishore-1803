@@ -51,6 +51,7 @@
   <img src="https://img.shields.io/badge/Acceptance%20Rate-84.34%25-blue?style=for-the-badge" alt="Acceptance Rate" />
   <img src="https://img.shields.io/badge/Ranking-1964927-lightgrey?style=for-the-badge" alt="Ranking" />
 </p>
+
 ---
 
 ## 🌐 Connect with me  
