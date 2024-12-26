@@ -4,7 +4,8 @@
 - 👀 Passionate about Coding, Learning, and exploring AI technologies.
 - 🌟 Enthusiast in open-source contributions and building innovative projects.
 - 🌱 Currently enhancing my skills in web development and AI-driven applications.
-  
+
+--- 
 ## 🚀 Skills
 
 ### 🌐 Languages
@@ -45,10 +46,26 @@
   <img src="https://img.shields.io/badge/Neural%20Networks-0080FF?style=for-the-badge&logo=python&logoColor=white" alt="Neural Networks" />
 </p>
 
+---
+
 ## 💻 Coding Profiles
 <p align="left">
   <a href="https://leetcode.com/u/US8yszMLEV" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 </p>
+
+---
+## 🏆 LeetCode Stats
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Total%20Solved-42%2F3400-orange?style=for-the-badge" alt="Total Solved" />
+  <img src="https://img.shields.io/badge/Easy%20Solved-20%2F845-brightgreen?style=for-the-badge" alt="Easy Solved" />
+  <img src="https://img.shields.io/badge/Medium%20Solved-17%2F1773-yellow?style=for-the-badge" alt="Medium Solved" />
+  <img src="https://img.shields.io/badge/Hard%20Solved-5%2F782-red?style=for-the-badge" alt="Hard Solved" />
+  <img src="https://img.shields.io/badge/Acceptance%20Rate-84.34%25-blue?style=for-the-badge" alt="Acceptance Rate" />
+  <img src="https://img.shields.io/badge/Ranking-1964927-lightgrey?style=for-the-badge" />
+</p>
+
+---
 
 ## 🌐 Connect with me
 <p align="left">
