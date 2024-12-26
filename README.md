@@ -45,7 +45,7 @@
 ### 🏆 LeetCode Stats  
 <p align="left">  
   <a href="https://leetcode.com/u/US8yszMLEV" target="_blank">  
-    <img src="https://leetcode-stats-api.herokuapp.com/u/US8yszMLEV?theme=dark" alt="LeetCode Stats" />  
+    <img src="https://leetcode-stats-api.herokuapp.com/US8yszMLEV?theme=dark" alt="LeetCode Stats" />  
   </a>  
 </p>  
 
