@@ -44,13 +44,11 @@
 
 ### 🏆 LeetCode Stats  
 <p align="left">  
-  <img src="https://leetcode-stats-api.herokuapp.com/u/US8yszMLEV?label=Total%20Solved&style=for-the-badge" alt="Total Solved" />  
+  <img src="https://leetcode-stats-api.herokuapp.com/u/US8yszMLEV?label=total%20Solved&style=for-the-badge" alt="Total Solved" />  
   <img src="https://leetcode-stats-api.herokuapp.com/u/US8yszMLEV?label=Easy%20Solved&style=for-the-badge" alt="Easy Solved" />  
   <img src="https://leetcode-stats-api.herokuapp.com/u/US8yszMLEV?label=Medium%20Solved&style=for-the-badge" alt="Medium Solved" />  
   <img src="https://leetcode-stats-api.herokuapp.com/u/US8yszMLEV?label=Hard%20Solved&style=for-the-badge" alt="Hard Solved" />  
 </p>
-
-
 ---
 
 ## 🌐 Connect with me  
