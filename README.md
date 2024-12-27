@@ -54,14 +54,6 @@
 </p>
 
 ---
-## 🏆 LeetCode Stats
-
-<!--START_LEETCODE_STATS-->
-- 🏆 **LeetCode Rank:** Loading...
-- ✅ **Total Problems Solved:** Loading...
-<!--END_LEETCODE_STATS-->
-
----
 
 ## 🌐 Connect with me
 <p align="left">
