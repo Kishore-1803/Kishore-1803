@@ -20,7 +20,7 @@ jobs:
         run: |
           echo "Fetching LeetCode stats..."
           # Replace <your_username> with your LeetCode username
-          curl -s "https://leetcode-stats-api.herokuapp.com/<your_username>" > leetcode_stats.json
+          curl -s "https://leetcode-stats-api.herokuapp.com/US8yszMLEV" > leetcode_stats.json
 
       # Step 3: Generate README content
       - name: Update README with LeetCode Stats
