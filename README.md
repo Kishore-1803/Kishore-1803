@@ -56,14 +56,10 @@
 ---
 ## 🏆 LeetCode Stats
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Total%20Solved-42%2F3400-orange?style=for-the-badge" alt="Total Solved" />
-  <img src="https://img.shields.io/badge/Easy%20Solved-20%2F845-brightgreen?style=for-the-badge" alt="Easy Solved" />
-  <img src="https://img.shields.io/badge/Medium%20Solved-17%2F1773-yellow?style=for-the-badge" alt="Medium Solved" />
-  <img src="https://img.shields.io/badge/Hard%20Solved-5%2F782-red?style=for-the-badge" alt="Hard Solved" />
-  <img src="https://img.shields.io/badge/Acceptance%20Rate-84.34%25-blue?style=for-the-badge" alt="Acceptance Rate" />
-  <img src="https://img.shields.io/badge/Ranking-1964927-lightgrey?style=for-the-badge" />
-</p>
+<!--START_LEETCODE_STATS-->
+- 🏆 **LeetCode Rank:** Loading...
+- ✅ **Total Problems Solved:** Loading...
+<!--END_LEETCODE_STATS-->
 
 ---
 
