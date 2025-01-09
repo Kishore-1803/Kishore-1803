@@ -37,6 +37,12 @@
   <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j" />
 </p>
 
+### 🌐 Deployment Platforms
+<p align="left">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Render-0468D7?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
+</p>
+
 ### 🧠 AI/ML Frameworks and Tools
 <p align="left">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
@@ -59,4 +65,11 @@
 <p align="left">
   <a href="https://www.instagram.com/kishore_balaji_03" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://www.linkedin.com/in/kishore-balaji-081168292" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
+
+---
+
+## 🔗 Portfolio Website
+<p align="left">
+  <a href="https://kishore-balaji.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF6F00?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio" /></a>
 </p>
