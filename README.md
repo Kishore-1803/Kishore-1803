@@ -56,9 +56,7 @@
 ---
 
 ## 💻 Coding Profiles
-<p align="left">
-  <a href="https://leetcode.com/u/US8yszMLEV" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-</p>
+![Leetcode Stats](https://leetcard.US8yszMLEV/lapor?ext=heatmap)
 
 ---
 
