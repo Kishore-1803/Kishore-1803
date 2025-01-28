@@ -56,7 +56,7 @@
 ---
 
 ## 💻 Coding Profiles
-![Leetcode Stats](https://leetcard.US8yszMLEV/lapor?ext=heatmap)
+![Leetcode Stats](https://leetcard.jacoblin.cool/US8yszMLEV?ext=heatmap)
 
 ---
 
