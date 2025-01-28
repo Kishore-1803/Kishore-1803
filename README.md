@@ -55,7 +55,7 @@
 
 ---
 
-## 💻 Coding Profiles
+## ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black) Leetcode
 ![Leetcode Stats](https://leetcard.jacoblin.cool/US8yszMLEV?ext=heatmap)
 
 ---
