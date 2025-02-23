@@ -1,10 +1,19 @@
-## Hi there! 👋 I'm Kishore B
+<p align="center">
+  <img src="https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" width="500"/>
+</p>
+
+# Hi there! 👋 I'm Kishore B
 
 - 👀 Passionate about Coding, Learning, and exploring AI technologies.
 - 🌟 Enthusiast in open-source contributions and building innovative projects.
 - 🌱 Currently enhancing my skills in web development and AI-driven applications.
 
---- 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600"/>
+</p>
+
+---
+
 ## 🚀 Skills
 
 ### 🌐 Languages
@@ -57,7 +66,6 @@
 
 ## <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode Icon" width="25"/> Leetcode
 ![Leetcode Stats](https://leetcard.jacoblin.cool/US8yszMLEV?ext=heatmap)
-
 
 ---
 
