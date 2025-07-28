@@ -70,8 +70,3 @@
 </p>
 
 ---
-
-## 🔗 Portfolio Website
-<p align="left">
-  <a href="https://kishore-balaji.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF6F00?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio" /></a>
-</p>
