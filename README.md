@@ -59,7 +59,7 @@
 ---
 
 ## <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode Icon" width="25"/> Leetcode
-![Leetcode Stats](https://leetcard.jacoblin.cool/US8yszMLEV?ext=heatmap)
+![Leetcode Stats](https://leetcard.jacoblin.cool/kishore_balaji_03?ext=heatmap)
 
 ---
 
