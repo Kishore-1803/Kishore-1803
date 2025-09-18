@@ -142,7 +142,6 @@ Coffee_Level: ████████░░ 80%
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
-<img src="https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
 
 ```
     DEVELOPMENT TOOLS
