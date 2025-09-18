@@ -122,9 +122,8 @@ Coffee_Level: ████████░░ 80%
 ### Database Systems
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=postgresql,mongodb&theme=dark" />
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=sql,mongodb,postgresql,supabase,neo4j&theme=dark)
+
 
 ```
     DATABASE PROFICIENCY
@@ -133,6 +132,7 @@ Coffee_Level: ████████░░ 80%
     │  MongoDB            │ ██████████████████░░ 90%
     │  Supabase           │ ████████████████░░░░ 80%
     │  SQL                │ ██████████████████░░ 90%
+    |  Neo4j              | ██████████████░░░░░░ 70%
     └─────────────────────┘
 ```
 
