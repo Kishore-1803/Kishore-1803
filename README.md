@@ -104,7 +104,7 @@ Coffee_Level: ████████░░ 80%
 ### Web Development
 <div align="center">
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,express.js,react.js,next.js,flask,fastapi&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,express,react,next,flask,fastapi&theme=dark)
 
 ```
     WEB TECHNOLOGIES
