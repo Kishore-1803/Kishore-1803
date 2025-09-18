@@ -300,7 +300,7 @@ Mood: ████████████████████ 100% Ready to
 <td align="center" width="25%">
 
 **📧 Email**  
-kishorebalaji03@gmail.com  
+kishorebalajisivani@gmail.com  
 *Direct communication*
 
 </td>
@@ -310,7 +310,7 @@ kishorebalaji03@gmail.com
 ### 🎯 LeetCode Journey
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/kishore_balaji_03?theme=unicorn&font=source_code_pro" alt="LeetCode Progress" />
+  <img src="https://leetcard.jacoblin.cool/kishore_balaji_03?theme=dark&font=source_code_pro" alt="LeetCode Progress" />
 </div>
 
 </div>
