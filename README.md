@@ -87,8 +87,7 @@ Coffee_Level: ████████░░ 80%
 ### AI/ML Technologies
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
-<img src="https://skillicons.dev/icons?i=/>
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=tensorflow,pytorch,numpy,pandas,opencv,matplotlib,seaborn&theme=dark)
 
 ```
     AI/ML EXPERTISE
