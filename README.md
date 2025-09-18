@@ -141,7 +141,7 @@ Coffee_Level: ████████░░ 80%
 ### Tools & Platforms
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,render&theme=dark" />
 
 ```
     DEVELOPMENT TOOLS
