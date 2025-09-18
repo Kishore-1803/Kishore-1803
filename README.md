@@ -34,12 +34,11 @@
 ### 👨‍💻 System Info
 ```yaml
 Name: Kishore Balaji
-Role: CSE(AI) Student & Full Stack Developer
-Institution: Amrita Vishwa Vidyapeetam, Coimbatore
-CGPA: 8.05/10.0
-Status: Available for internships & collaborations
-Current_Focus: AI-powered web applications
-Specialization: Full Stack + AI/ML Integration
+Role: Full Stack Developer
+Location: Tamil Nadu, India
+Status: Available for exciting projects
+Current_Mission: Building AI-powered solutions
+Favorite_Language: JavaScript & Python
 Coffee_Level: ████████░░ 80%
 ```
 
@@ -159,70 +158,42 @@ Coffee_Level: ████████░░ 80%
 
 ---
 
-## 🎯 Experience & Projects
+## 🎯 Mission Control
 
-### 💼 Professional Experience
+<div align="center">
+
+### 🚀 Current Objectives
+
+</div>
 
 <table>
 <tr>
-<td width="100%">
+<td width="50%">
 
-**Software Developer Intern** | **TechZeeb** | *Jun 2025 – Aug 2025*
-- Developed **Kovai Natural Farmers** platform connecting 100+ organic farmers with customers
-- Engineered scalable backend APIs reducing data response time by **40%**
-- Enhanced mobile engagement through responsive cross-device UI design
+#### 🔥 Active Projects
+```diff
++ Building AI-powered web applications
++ Contributing to open-source projects  
++ Learning advanced React patterns
++ Exploring blockchain technology
++ Creating developer tools
+```
+
+</td>
+<td width="50%">
+
+#### 📚 Knowledge Expansion
+```diff
+! Mastering system design
+! Cloud computing (AWS/GCP)
+! Advanced data structures
+! Microservices architecture
+! DevOps best practices
+```
 
 </td>
 </tr>
 </table>
-
-### 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="33%">
-
-**SyngenX**  
-*AI-powered GitHub Analytics*
-
-**Tech:** Next.js, FastAPI, Supabase, Gemini API
-
-Real-time developer productivity insights with OAuth integration and actionable team metrics.
-
-</td>
-<td width="33%">
-
-**XendrixAI**  
-*Multilingual RAG AI Assistant*
-
-**Tech:** FastAPI, Next.js, FAISS, Stable Diffusion
-
-40% improvement in result relevance through semantic search and LLM integration.
-
-</td>
-<td width="33%">
-
-**PerspectAI**  
-*AI Resume Analyzer*
-
-**Tech:** Flask, ChromaDB, Gemini API, Python
-
-85% matching accuracy with context-aware analysis and personalized feedback.
-
-</td>
-</tr>
-</table>
-
-### 🏆 Achievements & Recognition
-
-```
-HACKATHONS & COMPETITIONS
-┌──────────────────────────────────────────────┐
-│ ✨ Providence Leap Ideathon 2024 - Semifinalist │
-│ 🏆 Build With India 2025 - Top 20%             │
-│ 📜 Oracle Cloud Infrastructure 2025 Certified  │
-└──────────────────────────────────────────────┘
-```
 
 ---
 
