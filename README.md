@@ -34,11 +34,12 @@
 ### 👨‍💻 System Info
 ```yaml
 Name: Kishore Balaji
-Role: Full Stack Developer
-Location: Tamil Nadu, India
-Status: Available for exciting projects
-Current_Mission: Building AI-powered solutions
-Favorite_Language: JavaScript & Python
+Role: CSE(AI) Student & Full Stack Developer
+Institution: Amrita Vishwa Vidyapeetam, Coimbatore
+CGPA: 8.05/10.0
+Status: Available for internships & collaborations
+Current_Focus: AI-powered web applications
+Specialization: Full Stack + AI/ML Integration
 Coffee_Level: ████████░░ 80%
 ```
 
@@ -67,122 +68,161 @@ Coffee_Level: ████████░░ 80%
 
 ## 🛠️ Tech Arsenal
 
-### 🎨 Frontend Weapons
+### Programming Languages
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,python,cpp,js&theme=dark" />
 
 ```
-    💻 VISUAL LAYER
-    ┌─────────────────┐
-    │  React.js       │ ████████████ EXPERT
-    │  Next.js        │ ██████████░░ ADVANCED
-    │  HTML5/CSS3     │ ████████████ EXPERT
-    │  JavaScript     │ ████████████ EXPERT
-    └─────────────────┘
+    PROGRAMMING SKILLS
+    ┌─────────────────────┐
+    │  Java               │ ██████████████████░░ 90%
+    │  Python             │ ████████████████████ 95%
+    │  C++                │ ███████████████░░░░░ 75%
+    │  JavaScript         │ ██████████████████░░ 90%
+    └─────────────────────┘
 ```
 
 </div>
 
-### ⚙️ Backend Arsenal
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,python,express,fastapi&theme=dark" />
-
-```
-    ⚙️ LOGIC LAYER
-    ┌─────────────────┐
-    │  Node.js        │ ██████████░░ ADVANCED
-    │  Python         │ ████████████ EXPERT
-    │  Express.js     │ ██████████░░ ADVANCED
-    │  FastAPI        │ █████████░░░ INTERMEDIATE
-    └─────────────────┘
-```
-
-</div>
-
-### 🗄️ Data Fortress
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql&theme=dark" />
-<img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j" />
-
-```
-    🗄️ STORAGE LAYER
-    ┌─────────────────┐
-    │  MongoDB        │ ██████████░░ ADVANCED
-    │  MySQL          │ ██████████░░ ADVANCED
-    │  PostgreSQL     │ █████████░░░ INTERMEDIATE
-    │  Neo4j          │ ████████░░░░ BEGINNER+
-    └─────────────────┘
-```
-
-</div>
-
-### 🤖 AI Laboratory
+### AI/ML Technologies
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini API" />
 
 ```
-    🧠 INTELLIGENCE LAYER
-    ┌──────────────────┐
-    │  TensorFlow      │ █████████░░░ INTERMEDIATE
-    │  PyTorch         │ ████████░░░░ BEGINNER+
-    │  ML Algorithms   │ ██████████░░ ADVANCED
-    │  Neural Networks │ █████████░░░ INTERMEDIATE
-    └──────────────────┘
+    AI/ML EXPERTISE
+    ┌─────────────────────┐
+    │  Machine Learning   │ ████████████████░░░░ 80%
+    │  Deep Learning      │ ██████████████░░░░░░ 70%
+    │  LLM Integration    │ ███████████████████░ 95%
+    │  Prompt Engineering │ ██████████████████░░ 90%
+    └─────────────────────┘
 ```
 
 </div>
 
-### 🚀 Additional Tools & Languages
+### Web Development
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,c,cpp,git,docker,vercel&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,nextjs,express,flask,fastapi&theme=dark" />
+
+```
+    WEB TECHNOLOGIES
+    ┌─────────────────────┐
+    │  HTML/CSS           │ ████████████████████ 100%
+    │  Next.js            │ ██████████████████░░ 90%
+    │  Express.js         │ ███████████████░░░░░ 75%
+    │  Flask              │ ████████████████░░░░ 80%
+    │  FastAPI            │ ███████████████████░ 95%
+    └─────────────────────┘
+```
+
+</div>
+
+### Database Systems
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb&theme=dark" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+
+```
+    DATABASE PROFICIENCY
+    ┌─────────────────────┐
+    │  PostgreSQL         │ ███████████████████░ 95%
+    │  MongoDB            │ ██████████████████░░ 90%
+    │  Supabase           │ ████████████████░░░░ 80%
+    │  SQL                │ ██████████████████░░ 90%
+    └─────────────────────┘
+```
+
+</div>
+
+### Tools & Platforms
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+<img src="https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
+
+```
+    DEVELOPMENT TOOLS
+    ┌─────────────────────┐
+    │  Git/GitHub         │ ████████████████████ 100%
+    │  Visual Studio Code │ ████████████████████ 100%
+    │  CI/CD              │ ██████████████░░░░░░ 70%
+    └─────────────────────┘
+```
 
 </div>
 
 ---
 
-## 🎯 Mission Control
+## 🎯 Experience & Projects
 
-<div align="center">
-
-### 🚀 Current Objectives
-
-</div>
+### 💼 Professional Experience
 
 <table>
 <tr>
-<td width="50%">
+<td width="100%">
 
-#### 🔥 Active Projects
-```diff
-+ Building AI-powered web applications
-+ Contributing to open-source projects  
-+ Learning advanced React patterns
-+ Exploring blockchain technology
-+ Creating developer tools
-```
-
-</td>
-<td width="50%">
-
-#### 📚 Knowledge Expansion
-```diff
-! Mastering system design
-! Cloud computing (AWS/GCP)
-! Advanced data structures
-! Microservices architecture
-! DevOps best practices
-```
+**Software Developer Intern** | **TechZeeb** | *Jun 2025 – Aug 2025*
+- Developed **Kovai Natural Farmers** platform connecting 100+ organic farmers with customers
+- Engineered scalable backend APIs reducing data response time by **40%**
+- Enhanced mobile engagement through responsive cross-device UI design
 
 </td>
 </tr>
 </table>
+
+### 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="33%">
+
+**SyngenX**  
+*AI-powered GitHub Analytics*
+
+**Tech:** Next.js, FastAPI, Supabase, Gemini API
+
+Real-time developer productivity insights with OAuth integration and actionable team metrics.
+
+</td>
+<td width="33%">
+
+**XendrixAI**  
+*Multilingual RAG AI Assistant*
+
+**Tech:** FastAPI, Next.js, FAISS, Stable Diffusion
+
+40% improvement in result relevance through semantic search and LLM integration.
+
+</td>
+<td width="33%">
+
+**PerspectAI**  
+*AI Resume Analyzer*
+
+**Tech:** Flask, ChromaDB, Gemini API, Python
+
+85% matching accuracy with context-aware analysis and personalized feedback.
+
+</td>
+</tr>
+</table>
+
+### 🏆 Achievements & Recognition
+
+```
+HACKATHONS & COMPETITIONS
+┌──────────────────────────────────────────────┐
+│ ✨ Providence Leap Ideathon 2024 - Semifinalist │
+│ 🏆 Build With India 2025 - Top 20%             │
+│ 📜 Oracle Cloud Infrastructure 2025 Certified  │
+└──────────────────────────────────────────────┘
+```
 
 ---
 
