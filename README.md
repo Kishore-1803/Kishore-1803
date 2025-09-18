@@ -70,7 +70,7 @@ Coffee_Level: ████████░░ 80%
 ### Programming Languages
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,cpp,js&theme=dark" />
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,python,c,cpp&theme=dark)
 
 ```
     PROGRAMMING SKILLS
@@ -88,7 +88,7 @@ Coffee_Level: ████████░░ 80%
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
-<img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini API" />
+<img src="https://skillicons.dev/icons?i=/>
 
 ```
     AI/ML EXPERTISE
