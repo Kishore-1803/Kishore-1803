@@ -195,22 +195,6 @@ Coffee_Level: ████████░░ 80%
 
 ---
 
-## 🏆 Achievement Unlocked
-
-<div align="center">
-
-| 🏅 Badge | 📈 Level | 📝 Description |
-|:---:|:---:|:---|
-| 🎯 **Problem Solver** | Expert | Solved 100+ coding challenges |
-| 🌟 **Full Stack** | Advanced | Built 10+ complete applications |
-| 🤖 **AI Explorer** | Intermediate | Implemented ML models |
-| 🔧 **Tool Creator** | Beginner+ | Developed utility tools |
-| 📱 **Mobile Ready** | Learning | Exploring React Native |
-
-</div>
-
----
-
 ## 🎨 Code Philosophy
 
 <div align="center">
