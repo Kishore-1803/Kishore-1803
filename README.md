@@ -70,13 +70,15 @@ Coffee_Level: ████████░░ 80%
 ### 🎨 Frontend Weapons
 <div align="center">
 
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js&theme=dark" />
+
 ```
-    🖥️ VISUAL LAYER
+    💻 VISUAL LAYER
     ┌─────────────────┐
-    │  React.js ⚛️    │ ████████████ EXPERT
-    │  Next.js 🚀     │ ██████████░░ ADVANCED
-    │  HTML5/CSS3 🎨  │ ████████████ EXPERT
-    │  JavaScript 💛  │ ████████████ EXPERT
+    │  React.js       │ ████████████ EXPERT
+    │  Next.js        │ ██████████░░ ADVANCED
+    │  HTML5/CSS3     │ ████████████ EXPERT
+    │  JavaScript     │ ████████████ EXPERT
     └─────────────────┘
 ```
 
@@ -85,13 +87,15 @@ Coffee_Level: ████████░░ 80%
 ### ⚙️ Backend Arsenal
 <div align="center">
 
+<img src="https://skillicons.dev/icons?i=nodejs,python,express,fastapi&theme=dark" />
+
 ```
-    🔧 LOGIC LAYER
+    ⚙️ LOGIC LAYER
     ┌─────────────────┐
-    │  Node.js 🟢     │ ██████████░░ ADVANCED
-    │  Python 🐍      │ ████████████ EXPERT
-    │  Express.js 🌐  │ ██████████░░ ADVANCED
-    │  FastAPI ⚡     │ █████████░░░ INTERMEDIATE
+    │  Node.js        │ ██████████░░ ADVANCED
+    │  Python         │ ████████████ EXPERT
+    │  Express.js     │ ██████████░░ ADVANCED
+    │  FastAPI        │ █████████░░░ INTERMEDIATE
     └─────────────────┘
 ```
 
@@ -100,13 +104,16 @@ Coffee_Level: ████████░░ 80%
 ### 🗄️ Data Fortress
 <div align="center">
 
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql&theme=dark" />
+<img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j" />
+
 ```
-    💾 STORAGE LAYER
+    🗄️ STORAGE LAYER
     ┌─────────────────┐
-    │  MongoDB 🍃     │ ██████████░░ ADVANCED
-    │  MySQL 🐬       │ ██████████░░ ADVANCED
-    │  PostgreSQL 🐘  │ █████████░░░ INTERMEDIATE
-    │  Neo4j 🕸️       │ ████████░░░░ BEGINNER+
+    │  MongoDB        │ ██████████░░ ADVANCED
+    │  MySQL          │ ██████████░░ ADVANCED
+    │  PostgreSQL     │ █████████░░░ INTERMEDIATE
+    │  Neo4j          │ ████████░░░░ BEGINNER+
     └─────────────────┘
 ```
 
@@ -115,15 +122,26 @@ Coffee_Level: ████████░░ 80%
 ### 🤖 AI Laboratory
 <div align="center">
 
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+
 ```
     🧠 INTELLIGENCE LAYER
     ┌──────────────────┐
-    │  TensorFlow 🧮   │ █████████░░░ INTERMEDIATE
-    │  PyTorch 🔥      │ ████████░░░░ BEGINNER+
-    │  ML Algorithms 📊│ ██████████░░ ADVANCED
-    │  Neural Nets 🕸️  │ █████████░░░ INTERMEDIATE
+    │  TensorFlow      │ █████████░░░ INTERMEDIATE
+    │  PyTorch         │ ████████░░░░ BEGINNER+
+    │  ML Algorithms   │ ██████████░░ ADVANCED
+    │  Neural Networks │ █████████░░░ INTERMEDIATE
     └──────────────────┘
 ```
+
+</div>
+
+### 🚀 Additional Tools & Languages
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,c,cpp,git,docker,vercel&theme=dark" />
 
 </div>
 
