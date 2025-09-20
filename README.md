@@ -1,63 +1,76 @@
-# 🚀 Welcome to My Digital Universe
+# ⚔️ Welcome to Kishore's Code Realm ⚔️
 
 <div align="center">
   
 ```ascii
-    ╔══════════════════════════════════════╗
-    ║           KISHORE BALAJI             ║
-    ║     Full Stack Developer & AI        ║
-    ║         Enthusiast                   ║
-    ╚══════════════════════════════════════╝
+    ╔════════════════════════════════════════╗
+    ║    🎮 PLAYER: KISHORE BALAJI 🎮        ║
+    ║  ⚡ Full Stack Developer & AI Mage ⚡   ║
+    ║       🏆 Level 21 • XP: 8.05k 🏆      ║
+    ╚════════════════════════════════════════╝
 ```
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Loading+Player+Profile...;Initializing+Code+Matrix...;Welcome+to+the+Digital+Battlefield!" alt="Typing Animation" />
 
 </div>
 
 ---
 
-## 🎮 Choose Your Adventure
+## 🎯 Quest Menu
 
 <div align="center">
 
-| 🏠 [Home Base](#-home-base) | 🛠️ [Tech Arsenal](#️-tech-arsenal) | 🎯 [Mission Control](#-mission-control) | 🌐 [Connect](#-connect-with-me) |
+| 🏠 [Character Info](#-character-profile) | ⚔️ [Skills & Abilities](#️-skills--abilities) | 🎮 [Active Quests](#-active-quests) | 🌍 [Guild Connections](#-guild-connections) |
 |:---:|:---:|:---:|:---:|
 
 </div>
 
 ---
 
-## 🏠 Home Base
+## 🏠 Character Profile
 
 <table>
 <tr>
 <td width="40%">
 
-### 👨‍💻 System Info
+### 👑 Player Stats
 ```yaml
-Name: Kishore Balaji
-Role: Full Stack Developer
-Location: Tamil Nadu, India
-Status: Available for exciting projects
-Current_Mission: Building AI-powered solutions
-Favorite_Language: JavaScript & Python
-Coffee_Level: ████████░░ 80%
+🎮 Player ID: Kishore Balaji
+🏆 Class: Full Stack Developer & AI Mage
+🌍 Server: Amrita Vishwa Vidyapeetam, Coimbatore
+📊 Level: 21 (CGPA: 8.05/10.0)
+⚡ Status: Ready for Co-op Missions
+🎯 Current Quest: AI-Powered Web Applications
+🔥 Specialization: Multi-Class (Frontend/Backend/AI)
+☕ Mana: ████████░░ 80%
 ```
 
 </td>
 <td width="60%">
 
-### 🎯 Character Stats
+### 📈 Character Attributes
 
 <div align="center">
 
-**CREATIVITY** ████████████████████ 100%  
-**PROBLEM SOLVING** ██████████████████░░ 90%  
-**TEAMWORK** █████████████████░░░ 85%  
-**LEARNING SPEED** ███████████████████░ 95%  
-**CODE QUALITY** ████████████████░░░░ 80%  
+```
+        🎮 RPG STATS 🎮
+    ┌─────────────────────────┐
+    │ 🧠 INTELLIGENCE    ████████████████████ 100% │
+    │ 🎯 FOCUS          ██████████████████░░ 90%  │
+    │ 🤝 TEAMWORK       █████████████████░░░ 85%  │
+    │ 📚 LEARNING       ███████████████████░ 95%  │
+    │ ⚙️ DEBUGGING      ████████████████░░░░ 80%  │
+    │ 🎨 CREATIVITY     ████████████████████ 100% │
+    └─────────────────────────┘
+```
 
 </div>
 
-*Special Abilities: Bug Detection, Coffee-to-Code Conversion, Late Night Debugging*
+**🎲 Special Abilities Unlocked:**
+- 🔍 Bug Hunter (Legendary)
+- ☕ Coffee-to-Code Transmutation (Epic)
+- 🌙 Nocturnal Coding Boost (Rare)
+- 🔧 Stack Overflow Summoning (Common)
 
 </td>
 </tr>
@@ -65,102 +78,104 @@ Coffee_Level: ████████░░ 80%
 
 ---
 
-## 🛠️ Tech Arsenal
+## ⚔️ Skills & Abilities
 
-### Programming Languages
+### 💻 Programming Arsenal
 <div align="center">
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,python,c,cpp&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,python,c,cpp,javascript&theme=dark)
 
 ```
-    PROGRAMMING SKILLS
-    ┌─────────────────────┐
-    │  Java               │ ██████████████████░░ 90%
-    │  Python             │ ████████████████████ 95%
-    │  C++                │ ███████████████░░░░░ 75%
-    │  JavaScript         │ ██████████████████░░ 90%
-    └─────────────────────┘
+    🗡️ WEAPON MASTERY 🗡️
+    ┌─────────────────────────┐
+    │ ☕ Java Sword        ██████████████████░░ LVL 18 │
+    │ 🐍 Python Staff      ████████████████████ LVL 19 │
+    │ ⚡ C++ Hammer        ███████████████░░░░░ LVL 15 │
+    │ 💛 JavaScript Bow    ██████████████████░░ LVL 18 │
+    └─────────────────────────┘
 ```
 
 </div>
 
-### AI/ML Technologies
+### 🧙‍♂️ AI/ML Magic School
 <div align="center">
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=tensorflow,pytorch,numpy,pandas,opencv,matplotlib,seaborn&theme=dark)
 
 ```
-    AI/ML EXPERTISE
-    ┌─────────────────────┐
-    │  Machine Learning   │ ████████████████░░░░ 80%
-    │  Deep Learning      │ ██████████████░░░░░░ 70%
-    │  LLM Integration    │ ███████████████████░ 95%
-    │  Prompt Engineering │ ██████████████████░░ 90%
-    └─────────────────────┘
+    🔮 MAGIC SPELLS 🔮
+    ┌─────────────────────────┐
+    │ 🤖 Machine Learning   ████████████████░░░░ LVL 16 │
+    │ 🧠 Deep Learning      ██████████████░░░░░░ LVL 14 │
+    │ 🎯 LLM Summoning      ███████████████████░ LVL 19 │
+    │ ✨ Prompt Enchanting  ██████████████████░░ LVL 18 │
+    │ 📊 Data Visualization █████████████████░░░ LVL 17 │
+    └─────────────────────────┘
 ```
 
 </div>
 
-### Web Development
+### 🏰 Web Development Kingdom
 <div align="center">
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,express,react,next,flask,fastapi&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,react,next,express,flask,fastapi&theme=dark)
 
 ```
-    WEB TECHNOLOGIES
-    ┌─────────────────────┐
-    │  HTML/CSS           │ ████████████████████ 100%
-    │  Next.js            │ ██████████████████░░ 90%
-    │  Express.js         │ ███████████████░░░░░ 75%
-    │  Flask              │ ████████████████░░░░ 80%
-    │  FastAPI            │ ███████████████████░ 95%
-    └─────────────────────┘
+    🏗️ BUILDING SKILLS 🏗️
+    ┌─────────────────────────┐
+    │ 🎨 HTML/CSS Foundation ████████████████████ MAX  │
+    │ ⚛️ React.js Temple     ██████████████████░░ LVL 18 │
+    │ 🚀 Next.js Rocket      ██████████████████░░ LVL 18 │
+    │ 🟢 Express.js Bridge   ███████████████░░░░░ LVL 15 │
+    │ 🌶️ Flask Potion       ████████████████░░░░ LVL 16 │
+    │ ⚡ FastAPI Lightning   ███████████████████░ LVL 19 │
+    └─────────────────────────┘
 ```
 
 </div>
 
-### Database Systems
+### 🗃️ Database Fortress
 <div align="center">
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=sql,mongodb,postgresql,supabase,neo4j&theme=dark)
-
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=postgresql,mongodb,supabase,neo4j&theme=dark)
 
 ```
-    DATABASE PROFICIENCY
-    ┌─────────────────────┐
-    │  PostgreSQL         │ ███████████████████░ 95%
-    │  MongoDB            │ ██████████████████░░ 90%
-    │  Supabase           │ ████████████████░░░░ 80%
-    │  SQL                │ ██████████████████░░ 90%
-    |  Neo4j              | ██████████████░░░░░░ 70%
-    └─────────────────────┘
+    🏛️ DATA VAULTS 🏛️
+    ┌─────────────────────────┐
+    │ 🐘 PostgreSQL Castle  ███████████████████░ LVL 19 │
+    │ 🍃 MongoDB Forest      ██████████████████░░ LVL 18 │
+    │ ⚡ Supabase Cloud      ████████████████░░░░ LVL 16 │
+    │ 🕸️ Neo4j Web          ██████████████░░░░░░ LVL 14 │
+    │ 📋 SQL Scrolls        ██████████████████░░ LVL 18 │
+    └─────────────────────────┘
 ```
 
 </div>
 
-### Tools & Platforms
+### 🛠️ Developer's Toolkit
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,render&theme=dark" />
 
 ```
-    DEVELOPMENT TOOLS
-    ┌─────────────────────┐
-    │  Git/GitHub         │ ████████████████████ 100%
-    │  Visual Studio Code │ ████████████████████ 100%
-    │  CI/CD              │ ██████████████░░░░░░ 70%
-    └─────────────────────┘
+    🔧 UTILITY BELT 🔧
+    ┌─────────────────────────┐
+    │ 📝 Git/GitHub Master  ████████████████████ MAX  │
+    │ 💻 VS Code Blade      ████████████████████ MAX  │
+    │ 🚀 Vercel Deploy      ███████████████████░ LVL 19 │
+    │ 🔄 CI/CD Automation   ██████████████░░░░░░ LVL 14 │
+    └─────────────────────────┘
 ```
 
 </div>
 
 ---
 
-## 🎯 Mission Control
+## 🎮 Active Quests
 
 <div align="center">
 
-### 🚀 Current Objectives
+### 🌟 Main Story Quests
 
 </div>
 
@@ -168,48 +183,77 @@ Coffee_Level: ████████░░ 80%
 <tr>
 <td width="50%">
 
-#### 🔥 Active Projects
+#### 🔥 Current Objectives
 ```diff
-+ Building AI-powered web applications
-+ Contributing to open-source projects  
-+ Learning advanced React patterns
-+ Exploring blockchain technology
-+ Creating developer tools
+🎯 ACTIVE MISSIONS:
++ 🤖 Building AI-powered web applications
++ 🌟 Contributing to open-source guilds
++ ⚛️ Mastering advanced React patterns
++ 🔗 Exploring blockchain realms
++ 🛠️ Crafting developer tools
++ 🎓 Learning system architecture
 ```
 
 </td>
 <td width="50%">
 
-#### 📚 Knowledge Expansion
+#### 🚀 Side Quests
 ```diff
-! Mastering system design
-! Cloud computing (AWS/GCP)
-! Advanced data structures
-! Microservices architecture
-! DevOps best practices
+⚡ SKILL GRINDING:
+! 🏗️ System design mastery
+! ☁️ Cloud computing (AWS/GCP)
+! 📊 Advanced data structures
+! 🔧 Microservices architecture
+! 🤖 DevOps automation
+! 📱 Mobile development (React Native)
 ```
 
 </td>
 </tr>
 </table>
 
+### 🏆 Achievement Board
+
+<div align="center">
+
+| 🏅 Achievement | 📊 Progress | 🎯 Reward | 📝 Description |
+|:---:|:---:|:---:|:---|
+| 🎯 **Code Warrior** | ████████████████████ 100% | Legendary | Solved 100+ coding challenges |
+| 🏗️ **Stack Master** | ██████████████████░░ 90% | Epic | Built 10+ full-stack applications |
+| 🤖 **AI Apprentice** | ████████████████░░░░ 80% | Rare | Implemented ML models in projects |
+| 🛠️ **Tool Crafter** | ██████████░░░░░░░░░░ 50% | Common | Developed utility applications |
+| 🎓 **Knowledge Seeker** | ███████████████████░ 95% | Epic | Oracle Cloud AI Certification |
+
+</div>
+
 ---
 
-## 🎨 Code Philosophy
+## 🎨 Code Philosophy & Combat Style
 
 <div align="center">
 
 ```javascript
-const myApproach = {
-  design: "User-first, always",
-  code: "Clean, readable, maintainable",
-  testing: "Write tests, sleep peacefully",
-  learning: "Never stop, never settle",
-  collaboration: "Teamwork makes the dream work",
+const playerStrategy = {
+  combatStyle: "Adaptive Multi-Class Fighter",
+  codePhilosophy: {
+    design: "User-first, always prioritize UX",
+    architecture: "Clean, scalable, maintainable",
+    testing: "Test early, test often, sleep peacefully",
+    learning: "Never stop grinding, always level up",
+    teamwork: "Guild > Solo play, collaboration wins"
+  },
   
-  motto: function() {
-    return "Code is poetry, bugs are just typos! 🎭";
-  }
+  battleCry: function() {
+    return "Code is poetry, bugs are just mini-bosses to defeat! 🗡️";
+  },
+  
+  dailyRitual: [
+    "☕ Brew coffee (+50 focus)",
+    "📚 Read tech blogs (+10 knowledge)",  
+    "💻 Code for 6+ hours (+100 XP)",
+    "🎵 Lo-fi music (+25 productivity)",
+    "🔍 Debug & refactor (+50 clean code)"
+  ]
 };
 ```
 
@@ -217,11 +261,11 @@ const myApproach = {
 
 ---
 
-## 🌈 Fun Zone
+## 🌈 Player's Tavern (Fun Zone)
 
 <div align="center">
 
-### 🎲 Random Developer Facts
+### 🍺 Random Developer Lore
 
 </div>
 
@@ -229,26 +273,34 @@ const myApproach = {
 <tr>
 <td width="33%" align="center">
 
-**🕒 Best Coding Time**  
-11 PM - 3 AM  
-*When the world sleeps,*  
-*I code*
+**🌙 Optimal Raid Time**  
+```
+⏰ 11 PM - 3 AM
+🌟 Night Owl Bonus: +200% Focus
+🎯 When NPCs sleep, legends code
+```
 
 </td>
 <td width="33%" align="center">
 
-**☕ Fuel of Choice**  
-Strong Black Coffee  
-*Debugging juice*  
-*Error eliminator*
+**⚡ Power-Up Potion**  
+```
+☕ Strong Black Coffee
+💊 Effect: Instant Debug Vision
+🔥 Duration: 4 hours
+⚠️ Side Effect: Hyperactivity
+```
 
 </td>
 <td width="33%" align="center">
 
-**🎵 Coding Soundtrack**  
-Lo-fi Hip Hop  
-*Brain.exe optimization*  
-*Focus mode activated*
+**🎵 Battle Soundtrack**  
+```
+🎶 Lo-fi Hip Hop Beats
+🧠 Buff: +300% Concentration
+🎧 Background music for coding raids
+🎮 Perfect for grinding sessions
+```
 
 </td>
 </tr>
@@ -256,61 +308,65 @@ Lo-fi Hip Hop
 
 <div align="center">
 
-### 🎪 Developer Mood Tracker
+### 🎪 Daily Status Check
 
-**Today I'm feeling:** `motivated && caffeinated && ready_to_code` ✅
+**Current Mood:** `motivated && caffeinated && ready_to_ship` ✅
 
 ```
-Mood: ████████████████████ 100% Ready to Ship! 🚢
+🎮 Today's Energy Level:
+Health: ████████████████████ 100% | Full HP!
+Mana:   ████████████████░░░░ 80%  | Ready to cast
+Focus:  ███████████████████░ 95%  | In the zone
+Hype:   ████████████████████ 100% | LET'S GOOO! 🚀
 ```
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+## 🌍 Guild Connections
 
 <div align="center">
 
-### 🔗 Find Me In The Digital World
+### 🤝 Join My Network
 
 <table>
 <tr>
 <td align="center" width="25%">
 
-**🌐 Portfolio**  
+**🌐 Main Base**  
 [kishore-balaji.vercel.app](https://kishore-balaji.vercel.app/)  
-*My digital showcase*
+*🏰 My digital fortress*
 
 </td>
 <td align="center" width="25%">
 
-**💼 LinkedIn**  
-[kishore-balaji](https://www.linkedin.com/in/kishore-balaji-081168292)  
-*Professional network*
+**💼 Professional Guild**  
+[LinkedIn Profile](https://www.linkedin.com/in/kishore-balaji-081168292)  
+*🤝 Business network HQ*
 
 </td>
 <td align="center" width="25%">
 
-**📸 Instagram**  
+**📸 Social Hub**  
 [@kishore_balaji_03](https://www.instagram.com/kishore_balaji_03)  
-*Life in pixels*
+*📱 Life behind the code*
 
 </td>
 <td align="center" width="25%">
 
-**📧 Email**  
+**📧 Direct Message**  
 kishorebalajisivani@gmail.com  
-*Direct communication*
+*📨 Instant communication*
 
 </td>
 </tr>
 </table>
 
-### 🎯 LeetCode Journey
+### 🎯 Coding Arena Stats
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/kishore_balaji_03?theme=dark&font=source_code_pro" alt="LeetCode Progress" />
+  <img src="https://leetcard.jacoblin.cool/kishore_balaji_03?theme=dark&font=source_code_pro&ext=contest" alt="LeetCode Battle Stats" />
 </div>
 
 </div>
@@ -319,24 +375,27 @@ kishorebalajisivani@gmail.com
 
 <div align="center">
 
-### 🎭 The End... Or Is It?
+### 🎭 End Credits... Or New Game+?
 
 ```
-     ╔══════════════════════════════════════╗
-     ║  "The best time to plant a tree was  ║
-     ║   20 years ago. The second best      ║
-     ║   time is now. The third best time   ║
-     ║   is right after you fix this bug."  ║
-     ║                                      ║
-     ║           - Ancient Developer        ║
-     ╚══════════════════════════════════════╝
+     ╔══════════════════════════════════════════╗
+     ║  "A good developer codes for today,      ║
+     ║   a great developer codes for tomorrow,  ║
+     ║   but a legendary developer codes for    ║
+     ║   the bugs they haven't discovered yet." ║
+     ║                                          ║
+     ║         - Ancient Code Master 🧙‍♂️         ║
+     ╚══════════════════════════════════════════╝
 ```
 
-**Thanks for visiting my corner of the internet!** 🌟  
-*Now go build something awesome!* 🚀
+**🎮 Thanks for visiting my digital realm!** 🌟  
+*🚀 Now go forth and build something epic!*
 
 ---
 
-<sub>🔄 This README updates itself with my mood swings and coffee levels</sub>
+**🔄 This profile auto-updates with my coding adventures and caffeine levels**  
+**⭐ Don't forget to star my repositories if you find them worthy!**
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Game" />
 
 </div>
