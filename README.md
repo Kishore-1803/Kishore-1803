@@ -209,10 +209,6 @@ Designing efficient databases, optimizing queries, managing data flows. From SQL
 
 ---
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kishore-balaji&theme=react-dark&hide_border=true&bg_color=0D1117&color=36BCF7&line=36BCF7&point=FFFFFF" width="100%"/>
-
----
-
 ```
 ╔══════════════════════════════════════════════════════╗
 ║  "Building the future, one commit at a time."       ║
