@@ -1,337 +1,374 @@
 <div align="center">
 
-<!-- EPIC HEADER WITH GLITCH EFFECT -->
-```
-██╗  ██╗██╗███████╗██╗  ██╗ ██████╗ ██████╗ ███████╗    ██████╗  █████╗ ██╗      █████╗      ██╗██╗
-██║ ██╔╝██║██╔════╝██║  ██║██╔═══██╗██╔══██╗██╔════╝    ██╔══██╗██╔══██╗██║     ██╔══██╗     ██║██║
-█████╔╝ ██║███████╗███████║██║   ██║██████╔╝█████╗      ██████╔╝███████║██║     ███████║     ██║██║
-██╔═██╗ ██║╚════██║██╔══██║██║   ██║██╔══██╗██╔══╝      ██╔══██╗██╔══██║██║     ██╔══██║██   ██║██║
-██║  ██╗██║███████║██║  ██║╚██████╔╝██║  ██║███████╗    ██████╔╝██║  ██║███████╗██║  ██║╚█████╔╝██║
-╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝    ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝ ╚════╝ ╚═╝
-```
-
-### 🌌 *Architect of Digital Dreams | AI Sorcerer | Code Poet* 🌌
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=32&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=%E2%9A%A1+Transforming+Ideas+into+Reality;%F0%9F%92%BB+One+Line+of+Code+at+a+Time;%F0%9F%A4%96+Building+the+Future+with+AI;%F0%9F%9A%80+Let's+Create+Something+Legendary!" alt="Dynamic Header" />
-
-<br/>
-
-<!-- MATRIX-STYLE ANIMATION -->
-```diff
-> SYSTEM BOOT SEQUENCE INITIATED...
-> LOADING CONSCIOUSNESS.EXE...
-> NEURAL NETWORK: ████████████████████ [ONLINE]
-> CREATIVITY ENGINE: ████████████████████ [MAXIMUM]
-> COFFEE LEVELS: ████████████████████ [OPTIMAL]
-> STATUS: ✅ READY TO BUILD THE IMPOSSIBLE
-```
-
-<!-- FANCY BADGES -->
-<p align="center">
-  <img src="https://img.shields.io/badge/CODE-POET-ff69b4?style=for-the-badge&logo=dev.to&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI-WIZARD-9cf?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/BUG-SLAYER-red?style=for-the-badge&logo=bugsnag&logoColor=white" />
-  <img src="https://img.shields.io/badge/FULL_STACK-NINJA-orange?style=for-the-badge&logo=stackexchange&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kishore-balaji&label=👁️+VISITORS&color=blueviolet&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/kishore-balaji?label=🎯+FOLLOWERS&style=for-the-badge&color=yellow" />
-  <img src="https://img.shields.io/badge/⚡_STATUS-SHIPPING_CODE-success?style=for-the-badge" />
-</p>
-
----
+<!-- Cinematic Opening -->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=KISHORE%20BALAJI&fontSize=70&color=0:00f2fe,100:4facfe&stroke=00f2fe&strokeWidth=2&fontColor=fff&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Problem%20Solver&descAlignY=65&descAlign=50" width="100%"/>
 
 </div>
 
-## 🎭 WHO AM I? *[SELECT YOUR PERSPECTIVE]*
+---
+
+<br/>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+## 📡 SIGNAL DETECTED
+
+```bash
+> Scanning developer profile...
+> Identity: Kishore Balaji
+> Origin: Coimbatore, India
+> Level: 21 | CGPA: 8.05
+> Class: Full Stack Developer & AI Mage
+> Status: [ACTIVE] - Currently Shipping Code
+> 
+> SKILLS LOADING................. ▓▓▓▓▓▓▓▓▓▓ 100%
+> CREATIVITY LOADING............ ▓▓▓▓▓▓▓▓▓▓ 100%
+> COFFEE LEVELS................. ▓▓▓▓▓▓▓▓▓▓ MAX
+> 
+> CONNECTION ESTABLISHED ✓
+```
+
+### 🎯 MISSION STATEMENT
+
+> *Building the bridge between human imagination and digital reality through code, AI, and endless cups of coffee.*
+
+**Current Objective:** Creating AI-powered solutions that make people's lives easier, one line of code at a time.
+
+</td>
+<td width="50%" valign="top">
+
+## 🌊 LIVE METRICS DASHBOARD
+
+```javascript
+const kishoreBalaji = {
+  location: "Coimbatore, India 🇮🇳",
+  education: "B.Tech AI @ Amrita University",
+  languages: ["English", "Tamil", "JavaScript", "Python"],
+  timezone: "IST (GMT+5:30)",
+  availability: "Open for collaborations",
+  
+  workingOn: [
+    "AI-Powered Web Applications",
+    "Full Stack Projects",
+    "Open Source Contributions"
+  ],
+  
+  expertise: {
+    frontend: ["React", "Next.js", "Modern UI/UX"],
+    backend: ["Node.js", "Python", "FastAPI"],
+    ai: ["LLMs", "ML Models", "Computer Vision"],
+    database: ["PostgreSQL", "MongoDB", "Supabase"]
+  }
+};
+```
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=kishore-balaji&color=4facfe&style=for-the-badge&label=VISITORS)
+![GitHub Followers](https://img.shields.io/github/followers/kishore-balaji?style=for-the-badge&color=4facfe&labelColor=1c1c1c)
+
+</div>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧬 DNA STRUCTURE → MY TECH STACK
+
+<div align="center">
+
+### The Double Helix of Development
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
-### 👨‍💻 **THE PROFESSIONAL VERSION**
+#### 🎨 FRONTEND STRAND
 
-```python
-class KishoreBalaji:
-    def __init__(self):
-        self.name = "Kishore Balaji"
-        self.role = "Full Stack Developer & AI Engineer"
-        self.location = "Coimbatore, India 🇮🇳"
-        self.education = {
-            "degree": "B.Tech in Artificial Intelligence",
-            "university": "Amrita Vishwa Vidyapeetam",
-            "cgpa": 8.05,
-            "graduation": 2026
-        }
-        self.life_motto = "Build. Break. Learn. Repeat."
-    
-    def current_focus(self):
-        return [
-            "🤖 AI-Powered Web Applications",
-            "🌐 Scalable Backend Systems",
-            "🎨 Pixel-Perfect UX Design",
-            "📚 Open Source Contributions"
-        ]
-    
-    def get_superpower(self):
-        return "Converting ☕ into </>"
-```
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript&theme=dark)
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,next&theme=dark)
+
+**The Art Layer**
+- Pixel-perfect implementations
+- Responsive & accessible designs
+- Smooth animations & interactions
+- Component-driven architecture
 
 </td>
-<td width="50%">
+<td width="50%" align="center">
 
-### 🎮 **THE GAMER VERSION**
+#### ⚙️ BACKEND STRAND
 
-```yaml
-╔═══════════ PLAYER PROFILE ═══════════╗
-║                                      ║
-║  IGN: Kishore Balaji                 ║
-║  Class: Omni-Developer 🌟            ║
-║  Level: 21                           ║
-║  EXP: 8,050 / 10,000                 ║
-║                                      ║
-║  ⚔️  STR (Coding): ████████░░ 87%   ║
-║  🧠 INT (Problem Solving): █████ 95% ║
-║  ⚡ AGI (Learning Speed): ██████ 92% ║
-║  🎯 DEX (Debugging): ████████░ 85%   ║
-║  💖 VIT (Persistence): ████████ 90%  ║
-║  🌟 LUK (Coffee Finds): ████████ ∞   ║
-║                                      ║
-║  🏆 Titles Earned:                   ║
-║  → "Bug Terminator"                  ║
-║  → "The Stack Overflow Sage"         ║
-║  → "AI Whisperer"                    ║
-║  → "Midnight Code Warrior"           ║
-║                                      ║
-╚══════════════════════════════════════╝
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,python&theme=dark)
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=flask,fastapi&theme=dark)
+
+**The Logic Layer**
+- Scalable API architectures
+- Efficient data handling
+- Secure authentication systems
+- Performance optimization
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🧠 THE NUCLEUS → AI/ML CORE
+
+<table>
+<tr>
+<td align="center">
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=tensorflow,pytorch,opencv&theme=dark)
+
+</td>
+<td align="center">
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas&theme=dark)
+
+</td>
+<td align="center">
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=matplotlib,seaborn&theme=dark)
+
+</td>
+</tr>
+<tr>
+<td colspan="3" align="center">
+
+**Intelligence Integration**
+```
+Machine Learning ◆ Deep Learning ◆ LLM Applications ◆ Computer Vision ◆ Data Analysis
 ```
 
 </td>
 </tr>
 </table>
 
-<div align="center">
-
-### 💭 *"In a world full of problems, I'm the algorithm that finds solutions"*
-
-</div>
-
 ---
 
-## 🛠️ THE ARSENAL *[WEAPONS OF CHOICE]*
+### 🗄️ DATA STORAGE MATRIX
 
-<div align="center">
-
-### 🎯 **SKILL TREE** → *Hover Over Each Branch*
-
-</div>
-
-<table>
+<table width="100%">
 <tr>
-<td width="33%" align="center">
+<td width="25%" align="center">
 
-#### 🎨 **FRONTEND MASTERY**
-```
-      🌳
-     /|\
-    / | \
-   /  |  \
-  /   |   \
- /    |    \
-🎨   ⚛️   🎯
-```
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,figma" />
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=postgresql&theme=dark)
 
-**Crafting Beautiful UIs**
-- React.js Ecosystem
-- Next.js Power User
-- Responsive Design Guru
-- Animation Wizard
-- Component Architecture
+**PostgreSQL**
+Relational Power
 
 </td>
-<td width="33%" align="center">
+<td width="25%" align="center">
 
-#### ⚙️ **BACKEND WIZARDRY**
-```
-      🏰
-     /|\
-    / | \
-   /  |  \
-  ⚡  🐍  ☕
-```
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,flask,java,postgresql" />
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mongodb&theme=dark)
 
-**Building Robust Systems**
-- RESTful API Design
-- Database Optimization
-- Authentication & Security
-- Microservices
-- Server Management
+**MongoDB**
+NoSQL Flexibility
 
 </td>
-<td width="33%" align="center">
+<td width="25%" align="center">
 
-#### 🤖 **AI SORCERY**
-```
-      🧠
-     /|\
-    / | \
-   🔮 🎯 ✨
-```
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
-<br/>
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000" />
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=supabase&theme=dark)
 
-**Intelligent Solutions**
-- Machine Learning Models
-- LLM Integration
-- Computer Vision
-- NLP Applications
-- Prompt Engineering
+**Supabase**
+Firebase Alternative
+
+</td>
+<td width="25%" align="center">
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=neo4j&theme=dark)
+
+**Neo4j**
+Graph Database
 
 </td>
 </tr>
 </table>
 
-<details>
-<summary><b>🔍 Click to Expand Full Tech Stack</b></summary>
-<br/>
+---
 
-<div align="center">
+### 🛠️ DEVOPS & TOOLS ARSENAL
 
-### **PROGRAMMING LANGUAGES**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+<table width="100%">
+<tr>
+<td align="center">
 
-### **FRAMEWORKS & LIBRARIES**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,render&theme=dark" />
 
-### **AI/ML TOOLS**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+</td>
+</tr>
+<tr>
+<td align="center">
 
-### **DATABASES**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+**Git** • **GitHub** • **VS Code** • **Vercel** • **Render**
 
-### **TOOLS & PLATFORMS**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
-
-</details>
+</td>
+</tr>
+</table>
 
 ---
 
-## 🎯 MISSION CONTROL *[WHAT I'M BUILDING]*
+### 💎 PROGRAMMING LANGUAGES
+
+<table width="100%">
+<tr>
+<td align="center">
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,python,c,cpp,javascript&theme=dark)
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+**Java** • **Python** • **C** • **C++** • **JavaScript**
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🎬 PROJECT SPOTLIGHT → WHAT I'VE BUILT
+
+<div align="center">
+
+### Featured Creations
+
+</div>
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🤖 AI Applications
+```
+┌─────────────────────┐
+│  🎯 LLM Chatbots   │
+│  👁️ Computer Vision │
+│  📊 Data Analytics  │
+│  🔮 ML Predictions  │
+└─────────────────────┘
+```
+Intelligent systems that learn, adapt, and solve real-world problems.
+
+</td>
+<td width="33%" valign="top">
+
+### 🌐 Web Platforms
+```
+┌─────────────────────┐
+│  ⚛️ React SPAs      │
+│  🚀 Next.js Apps    │
+│  🎨 UI/UX Designs   │
+│  📱 Responsive Sites│
+└─────────────────────┘
+```
+Beautiful, fast, and user-friendly web experiences.
+
+</td>
+<td width="33%" valign="top">
+
+### 🔧 Developer Tools
+```
+┌─────────────────────┐
+│  🛠️ Automation      │
+│  📦 npm Packages    │
+│  🔌 APIs & SDKs     │
+│  📚 Documentation   │
+└─────────────────────┘
+```
+Tools that make developers' lives easier and more productive.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎯 CURRENT FOCUS AREAS
 
 <div align="center">
 
 ```mermaid
-mindmap
-  root((🚀 Kishore<br/>Balaji))
-    🎨 Frontend
-      React Apps
-      Responsive Design
-      User Experience
-      Animations
-    ⚙️ Backend
-      APIs
-      Databases
-      Authentication
-      Scalability
-    🤖 AI/ML
-      LLM Integration
-      Computer Vision
-      Chatbots
-      Automation
-    🌟 Projects
-      AI Tools
-      Web Apps
-      Open Source
-      Innovation
+graph TD
+    A[🚀 2025 Goals] --> B[🤖 AI Integration]
+    A --> C[🌐 Full Stack Mastery]
+    A --> D[☁️ Cloud Architecture]
+    A --> E[🌟 Open Source]
+    
+    B --> B1[RAG Systems]
+    B --> B2[Fine-tuning LLMs]
+    B --> B3[AI Agents]
+    
+    C --> C1[Next.js 14+]
+    C --> C2[System Design]
+    C --> C3[Microservices]
+    
+    D --> D1[AWS/GCP]
+    D --> D2[Kubernetes]
+    D --> D3[CI/CD Pipelines]
+    
+    E --> E1[Contributing]
+    E --> E2[Building Tools]
+    E --> E3[Community Help]
+    
+    style A fill:#4facfe
+    style B fill:#00f2fe
+    style C fill:#43e97b
+    style D fill:#fa709a
+    style E fill:#fee140
 ```
 
 </div>
 
-### 🔥 **ACTIVE PROJECTS** → *Currently Brewing*
+---
 
-<table>
+## 🏆 ACHIEVEMENTS & CERTIFICATIONS
+
+<table width="100%">
 <tr>
 <td width="50%">
 
-#### 🚀 **HIGH PRIORITY MISSIONS**
-
-```javascript
-const activeProjects = {
-  🎯 primary: [
-    "AI-powered productivity tools",
-    "Next.js full-stack applications",
-    "RAG-based chatbot systems",
-    "Open-source contributions"
-  ],
-  
-  🧪 experimental: [
-    "Real-time collaboration platforms",
-    "Computer vision applications",
-    "Blockchain integration",
-    "Developer automation tools"
-  ],
-  
-  💡 learning: [
-    "System design patterns",
-    "Cloud architecture (AWS/GCP)",
-    "Advanced React patterns",
-    "Microservices with Docker"
-  ]
-};
-```
-
-</td>
-<td width="50%">
-
-#### 🎓 **SKILL ACQUISITION ROADMAP**
+### 📜 Official Certifications
 
 ```yaml
-2024_Q4: ✅
-  - Oracle Cloud AI Certification
-  - Advanced React & Next.js
-  - LLM Fine-tuning
-  
-2025_Q1: 🔄 IN PROGRESS
-  - System Design Mastery
-  - DevOps & CI/CD
-  - Kubernetes Basics
-  - AWS Solutions Architect
-  
-2025_Q2: 📋 PLANNED
-  - Microservices Architecture
-  - GraphQL Advanced
-  - Mobile Development
-  - Performance Optimization
+🎓 Education:
+  - B.Tech in Artificial Intelligence
+  - Amrita Vishwa Vidyapeetam
+  - CGPA: 8.05/10.0
+  - Expected: 2026
+
+☁️ Cloud Certifications:
+  - Oracle Cloud Infrastructure AI Foundations
+  - Status: Certified ✓
+  - Year: 2024
+```
+
+</td>
+<td width="50%">
+
+### 💪 Skills Unlocked
+
+```python
+achievements = {
+    "coding_challenges": "100+ Problems Solved",
+    "projects_built": "10+ Full Stack Apps",
+    "ml_models": "Multiple Models Deployed",
+    "apis_created": "RESTful & GraphQL APIs",
+    "contributions": "Open Source Active",
+    "coffee_consumed": "∞ Cups & Counting"
+}
 ```
 
 </td>
@@ -340,151 +377,67 @@ const activeProjects = {
 
 ---
 
-## 🏆 HALL OF FAME *[ACHIEVEMENTS UNLOCKED]*
+## 📊 GITHUB ANALYTICS
 
 <div align="center">
 
-### 🎖️ **TROPHY CABINET**
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kishore-balaji&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=4facfe&icon_color=4facfe&text_color=c9d1d9&border_radius=10"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishore-balaji&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4facfe&text_color=c9d1d9&border_radius=10"/>
 
-</div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kishore-balaji&theme=tokyonight&hide_border=true&background=0d1117&stroke=4facfe&ring=4facfe&fire=fa709a&currStreakLabel=4facfe&border_radius=10" />
 
-| 🏅 Trophy | 📊 Level | 🎯 Rarity | 📝 Quest Completed |
-|:---:|:---:|:---:|:---|
-| 🎯 **Code Samurai** | MAX | ![](https://img.shields.io/badge/-LEGENDARY-gold?style=flat-square) | Solved 100+ LeetCode Problems |
-| 🏗️ **Full Stack Architect** | 18/20 | ![](https://img.shields.io/badge/-EPIC-purple?style=flat-square) | Built 10+ Production Apps |
-| 🤖 **AI Engineer** | 16/20 | ![](https://img.shields.io/badge/-RARE-blue?style=flat-square) | Deployed ML Models in Production |
-| ☁️ **Cloud Certified** | 19/20 | ![](https://img.shields.io/badge/-EPIC-purple?style=flat-square) | Oracle Cloud AI Foundations |
-| 🌟 **Open Source Hero** | 12/20 | ![](https://img.shields.io/badge/-UNCOMMON-green?style=flat-square) | Contributed to Public Repos |
-| ⚡ **Performance Wizard** | 15/20 | ![](https://img.shields.io/badge/-RARE-blue?style=flat-square) | Optimized Apps by 300% |
-| 🔧 **Tool Smith** | 14/20 | ![](https://img.shields.io/badge/-RARE-blue?style=flat-square) | Created Developer Utilities |
-| 🎨 **Design Maven** | 17/20 | ![](https://img.shields.io/badge/-EPIC-purple?style=flat-square) | Pixel-Perfect UI Implementation |
-
-<div align="center">
-
-### 📈 **STATS & ANALYTICS**
-
-<img src="https://github-readme-stats.vercel.app/api?username=kishore-balaji&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kishore-balaji&theme=radical&hide_border=true&background=0D1117&stroke=00F7F7&ring=00F7F7&fire=FF6D00&currStreakLabel=00F7F7" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishore-balaji&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF" width="48%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kishore-balaji&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F7F7&line=00F7F7&point=FFFFFF" width="98%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kishore-balaji&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=4facfe&line=4facfe&point=00f2fe&area=true&area_color=4facfe" />
 
 </div>
 
 ---
 
-## 💭 CODE PHILOSOPHY *[MY DEVELOPER MANIFESTO]*
+## 🎨 CODING PHILOSOPHY
 
-<div align="center">
-
-```typescript
-interface DeveloperManifesto {
-  principles: string[];
-  approach: string;
-  values: string[];
-  goal: string;
-}
-
-const myManifesto: DeveloperManifesto = {
-  principles: [
-    "👤 User Experience > Everything Else",
-    "🧹 Clean Code is a Love Letter to Future Self",
-    "🧪 Test Often, Deploy Confidently",
-    "📚 Learn Daily, Grow Exponentially",
-    "🤝 Collaboration > Competition",
-    "🚀 Ship Fast, Iterate Faster",
-    "💡 Solve Problems, Not Just Write Code"
-  ],
-  
-  approach: "Build with empathy, code with passion, debug with patience",
-  
-  values: [
-    "Quality over Quantity",
-    "Impact over Perfection",
-    "Growth over Ego",
-    "Innovation over Convention"
-  ],
-  
-  goal: "Create technology that makes life better, one commit at a time"
-};
-
-// THE DEVELOPER'S OATH
-console.log("I solemnly swear to:");
-console.log("✅ Write code that my future self won't curse");
-console.log("✅ Comment like I'm explaining to a rubber duck");
-console.log("✅ Git commit with meaningful messages");
-console.log("✅ Never deploy on Fridays (well, mostly...)");
-console.log("✅ Keep learning until the machines take over");
-```
-
-</div>
-
----
-
-## 🎪 THE FUN ZONE *[EASTER EGGS & PERSONALITY]*
-
-<table>
+<table width="100%">
 <tr>
 <td width="33%" align="center">
 
-### ☕ **FUEL SOURCE**
+### 💭 MINDSET
+
 ```
-     (  )   (   )  )
-      ) (   )  (  (
-      ( )  (    ) )
-     ____       ____
-    |    |     |    |
-    |____|     |____|
-     |  |       |  |
-     |__|       |__|
-    /    \     /    \
-   /______\   /______\
+┌──────────────┐
+│ User First   │
+│ Clean Code   │
+│ Test Driven  │
+│ Always Learn │
+│ Ship Fast    │
+└──────────────┘
 ```
-**Coffee:** *The programmer's elixir*
-- Type: Strong Black ⚫
-- Consumption: 4-6 cups/day
-- Effect: +200% productivity
-- Side Effect: Talks to code
 
 </td>
 <td width="33%" align="center">
 
-### 🌙 **OPTIMAL CODING HOURS**
+### ⚡ WORKFLOW
+
 ```
-    .     *    .    *    
-      *      .   *      .
-   .    ⭐   .     *   .
-  *   .   *    .    *   
-    .    *   🌙   .   *
-  *   .    *   .    *  
-   .    *    .   ⭐  .  
+┌──────────────┐
+│ Plan → Code  │
+│ Test → Debug │
+│ Review → Fix │
+│ Deploy → 🚀  │
+│ Iterate ♻️   │
+└──────────────┘
 ```
-**Peak Performance:**
-- 🕐 11 PM - 3 AM
-- 🎧 Lo-fi Beats ON
-- 💡 Night Owl Mode
-- 🔥 God-Tier Focus
-- 🌃 When bugs fear me
 
 </td>
 <td width="33%" align="center">
 
-### 🎮 **DEVELOPER PERSONALITY**
+### 🎯 VALUES
+
 ```
-  +------------------------+
-  |  PERSONALITY TYPE:     |
-  |  ■■■■■■■■■□ 90%        |
-  |  Introvert             |
-  |                        |
-  |  ■■■■■■■■■■ 100%       |
-  |  Problem Solver        |
-  |                        |
-  |  ■■■■■■■■■□ 95%        |
-  |  Perfectionist         |
-  |                        |
-  |  ■■■■■■■■□□ 85%        |
-  |  Team Player           |
-  +------------------------+
+┌──────────────┐
+│ Quality > 📊 │
+│ Impact > 🎯  │
+│ Growth > 📈  │
+│ Collab > 🤝  │
+│ Passion > 💖 │
+└──────────────┘
 ```
 
 </td>
@@ -493,283 +446,202 @@ console.log("✅ Keep learning until the machines take over");
 
 <div align="center">
 
-### 🎯 **CURRENT STATUS**
+> *"Code is poetry written for machines but read by humans. Make it beautiful, make it meaningful, make it matter."*
+
+</div>
+
+---
+
+## 🌈 THE HUMAN SIDE
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### ☕ Daily Rituals
 
 ```javascript
-const currentStatus = {
-  mood: "🔥 Absolutely Pumped",
-  activity: "💻 Shipping Production Code",
-  music: "🎵 Lo-fi Hip Hop Radio - Beats to Code To",
-  coffee: "☕ Cup #4 (and counting...)",
-  brain: "🧠 100% Focused",
-  motivation: "📈 OVER 9000!",
-  bugCount: "🐛 0 (for now...)",
-  vibes: "✨ Immaculate",
-  nextMilestone: "🏆 Launch Next Big Thing"
+const myDay = async () => {
+  while (true) {
+    await brewCoffee();
+    await checkGitHub();
+    await readTechNews();
+    
+    for (let i = 0; i < 6; i++) {
+      await writeCode();
+      await solveProblem();
+    }
+    
+    await deployToProduction();
+    await celebrateWin();
+    
+    if (time >= "11:00 PM") {
+      console.log("Peak productivity hours 🌙");
+    }
+  }
 };
-
-// LIVE STATUS
-Object.entries(currentStatus).forEach(([key, value]) => {
-  console.log(`${key}: ${value}`);
-});
 ```
 
-</div>
-
-<details>
-<summary><b>🎲 Click for Random Developer Wisdom</b></summary>
-<br/>
-
-<div align="center">
-
-### 💡 **WISDOM SCROLLS**
-
-> *"First, solve the problem. Then, write the code."* - John Johnson
-
-> *"Code is like humor. When you have to explain it, it's bad."* - Cory House
-
-> *"The best error message is the one that never shows up."* - Thomas Fuchs
-
-> *"Talk is cheap. Show me the code."* - Linus Torvalds
-
-> *"The only way to go fast, is to go well."* - Uncle Bob Martin
-
-### 🎭 **DEVELOPER TRUTHS**
-
-- ✅ Coffee is a programming language
-- ✅ Debugging is twice as hard as writing code
-- ✅ It works on my machine = Universal truth
-- ✅ The best code is no code at all
-- ✅ Documentation? I'll do it tomorrow (narrator: they didn't)
-- ✅ stackoverflow.com = Developer's best friend
-- ✅ Semicolons are optional (but are they really?)
-
-</div>
-
-</details>
-
----
-
-## 🌐 CONNECT WITH ME *[JOIN THE NETWORK]*
-
-<div align="center">
-
-### 🚀 **LET'S BUILD SOMETHING AMAZING TOGETHER!**
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-### 🌍 **Portfolio**
-[![Portfolio](https://img.shields.io/badge/🏰_My_Digital_Fortress-00F7F7?style=for-the-badge)](https://kishore-balaji.vercel.app/)
-
-*Explore my work,*  
-*projects, and journey*
-
 </td>
-<td align="center" width="25%">
+<td width="50%" valign="top">
 
-### 💼 **LinkedIn**
-[![LinkedIn](https://img.shields.io/badge/💎_Professional_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kishore-balaji-081168292)
+### 🎮 Outside of Code
 
-*Let's connect*  
-*professionally*
+```yaml
+Interests:
+  - 📚 Reading tech blogs & documentation
+  - 🎵 Lo-fi music while coding
+  - 🌙 Night owl programmer
+  - 🧩 Solving algorithmic puzzles
+  - 🤝 Mentoring fellow developers
+  - 🌱 Learning something new daily
 
-</td>
-<td align="center" width="25%">
-
-### 📸 **Instagram**
-[![Instagram](https://img.shields.io/badge/📷_Behind_The_Code-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kishore_balaji_03)
-
-*Life, coffee,*  
-*& occasional bugs*
-
-</td>
-<td align="center" width="25%">
-
-### 📧 **Email**
-[![Email](https://img.shields.io/badge/✉️_Direct_Line-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kishorebalajisivani@gmail.com)
-
-*Got a project idea?*  
-*Let's talk!*
+Personality:
+  - Problem solver at heart
+  - Detail-oriented perfectionist
+  - Team player & collaborator
+  - Continuous learner
+  - Open source enthusiast
+```
 
 </td>
 </tr>
 </table>
 
-### 🎯 **CODING BATTLEGROUNDS**
+---
+
+## 🔗 CONNECT & COLLABORATE
+
+<div align="center">
+
+### Let's Build Something Amazing Together!
+
+<table>
+<tr>
+<td align="center" width="20%">
+
+<a href="https://kishore-balaji.vercel.app/">
+<img src="https://img.shields.io/badge/🌐_Portfolio-4facfe?style=for-the-badge" />
+</a>
+
+**Visit My Website**
+
+</td>
+<td align="center" width="20%">
+
+<a href="https://www.linkedin.com/in/kishore-balaji-081168292">
+<img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+**Professional Network**
+
+</td>
+<td align="center" width="20%">
+
+<a href="https://github.com/kishore-balaji">
+<img src="https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+**Code Repository**
+
+</td>
+<td align="center" width="20%">
+
+<a href="https://www.instagram.com/kishore_balaji_03">
+<img src="https://img.shields.io/badge/📸_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+**Social Updates**
+
+</td>
+<td align="center" width="20%">
+
+<a href="mailto:kishorebalajisivani@gmail.com">
+<img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+**Direct Contact**
+
+</td>
+</tr>
+</table>
+
+### 🎯 Coding Platforms
 
 <a href="https://leetcode.com/kishore_balaji_03">
-  <img src="https://img.shields.io/badge/⚔️_LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-<a href="https://github.com/kishore-balaji">
-  <img src="https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 <a href="#">
-  <img src="https://img.shields.io/badge/🏅_CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
 </a>
 <a href="#">
-  <img src="https://img.shields.io/badge/🎯_HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
+<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
 </a>
 
 <br/><br/>
 
-### 📊 **MY LEETCODE JOURNEY**
-
-<img src="https://leetcard.jacoblin.cool/kishore_balaji_03?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats" />
+<img src="https://leetcard.jacoblin.cool/kishore_balaji_03?theme=nord&font=Noto%20Sans&ext=contest" />
 
 </div>
 
 ---
 
-## 🎁 SPECIAL FEATURES *[INTERACTIVE ELEMENTS]*
+## 🎪 FUN ZONE
 
 <div align="center">
 
-### 🎪 **VISITOR'S GUESTBOOK**
+### 🎲 Developer Stats
 
 ```
-╔═══════════════════════════════════════════════════════╗
-║                                                       ║
-║   👋 You are visitor #[COUNTER] to this profile!     ║
-║                                                       ║
-║   📝 Leave a ⭐ if you like what you see!            ║
-║   🤝 Let's collaborate on something awesome!          ║
-║   💬 Feel free to reach out anytime!                  ║
-║                                                       ║
-║   🎯 Together, we can build the future! 🚀           ║
-║                                                       ║
-╚═══════════════════════════════════════════════════════╝
+╔════════════════════════════════════════╗
+║  ☕ Coffee Consumed: ████████░░ 80%   ║
+║  🌙 Night Coding: ██████████ 100%     ║
+║  🐛 Bugs Fixed: ████████░░ 85%        ║
+║  💡 Ideas Generated: ██████████ ∞     ║
+║  🚀 Projects Deployed: ████████░ 90%  ║
+║  😴 Sleep Schedule: ██░░░░░░░░ 20%    ║
+╚════════════════════════════════════════╝
 ```
 
-### 🎵 **NOW PLAYING** *[My Coding Playlist]*
+### 💡 Quick Facts
 
-```
-♪ ♫ ♪ ♫ ♪ ♫ ♪ ♫ ♪ ♫ ♪ ♫ ♪ ♫ ♪ ♫
-
-🎧 Lo-fi Hip Hop Radio - Beats to Code/Relax To
-⏯️ ████████████████░░░░ 78%
-🔊 ▁ ▂ ▃ ▅ ▆ ▇ █ ▇ ▆ ▅ ▃ ▂ ▁
-
-♪ ♫ ♪ ♫ ♪ ♫ ♪ ♫ ♪ ♫ ♪ ♫ ♪ ♫ ♪ ♫
-```
+| ⏰ Best Coding Time | ☕ Fuel of Choice | 🎵 Coding Playlist | 🔧 Favorite IDE | 🌟 Code Style |
+|:---:|:---:|:---:|:---:|:---:|
+| 11 PM - 3 AM | Strong Black Coffee | Lo-fi Hip Hop | VS Code | Clean & Minimal |
 
 </div>
 
 ---
 
-## 📜 THE CHRONICLES *[CLOSING THOUGHTS]*
-
 <div align="center">
 
+## 🎬 CLOSING SCENE
+
 ```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║  "In the digital realm where logic meets creativity,          ║
-║   I craft solutions with code and build dreams with AI.       ║
-║                                                               ║
-║   Every bug is a lesson, every feature is a story,            ║
-║   Every commit is a step towards something extraordinary."    ║
-║                                                               ║
-║                        - Kishore Balaji                       ║
-║                          Code Poet & AI Sorcerer              ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
-```
-
-<br/>
-
-### 🌟 **THANK YOU FOR VISITING!** 🌟
-
-```javascript
-// A MESSAGE FOR YOU
-const thankYou = {
-  message: "Thanks for stopping by! ✨",
-  wishes: [
-    "May your code compile on first try",
-    "May your bugs be easy to fix",
-    "May your coffee always be strong",
-    "May your deploys be smooth",
-    "May your ideas turn into reality"
-  ],
-  callToAction: "Let's build something legendary together! 🚀"
-};
-
-console.log(thankYou);
+╔═══════════════════════════════════════════════════════════╗
+║                                                           ║
+║   "Every great developer you know got there by solving   ║
+║    problems they were unqualified to solve until they    ║
+║    actually did it."                                     ║
+║                                                           ║
+║   Building the future, one commit at a time.             ║
+║   Let's create something extraordinary together! 🚀       ║
+║                                                           ║
+╚═══════════════════════════════════════════════════════════╝
 ```
 
-<br/>
+### 🙏 Thank you for visiting!
 
-### ⚡ **QUICK ACTIONS**
-
-<table>
-<tr>
-<td align="center">
-
-**🌟 STAR**  
-this profile
-
-</td>
-<td align="center">
-
-**🔄 FORK**  
-my projects
-
-</td>
-<td align="center">
-
-**👀 FOLLOW**  
-for updates
-
-</td>
-<td align="center">
-
-**💬 CONNECT**  
-let's collaborate
-
-</td>
-</tr>
-</table>
-
-<br/>
+**💬 Open for:** Collaborations • Freelance Projects • Open Source • Mentorship
 
 ---
-
-### 🎮 **CONTRIBUTION SNAKE GAME**
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ---
 
-<br/>
+<sub>⚡ This README updates automatically with my latest adventures in code</sub>
 
-```diff
-@@ SYSTEM STATUS @@
-+ ✅ Profile Loaded Successfully
-+ ✅ Skills Displayed
-+ ✅ Projects Listed
-+ ✅ Contact Information Available
-+ ✅ Ready for Collaboration
-! 
-! 🚀 Deploying Dreams, One Commit at a Time
-! 💻 Powered by Coffee, Built with Passion
-! 
-```
-
-<br/>
-
-### 📊 **LAST UPDATED:** `February 2025`
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Happy%20Coding!%20🚀&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=75" />
-
-</div>
-
----
-
-<div align="center">
-
-**💖 Made with Love, Coffee, and Countless Hours of Debugging**
-
-*🌟 If you've read this far, you're awesome! Let's connect! 🌟*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&fontSize=0" width="100%"/>
 
 </div>
