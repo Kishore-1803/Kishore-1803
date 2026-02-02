@@ -1,13 +1,33 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=KISHORE%20BALAJI&fontSize=50&fontAlign=50&fontAlignY=40&color=gradient&customColorList=12,15,20,24" width="100%"/>
+<!-- Animated Wave Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,11,20&section=header" width="100%"/>
 
-**`Full Stack Developer`** **`AI Engineer`** **`Problem Solver`**
+<!-- Glitch Style Name -->
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=75&duration=1500&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=false&width=800&height=100&lines=KISHORE+BALAJI" alt="Name" />
+</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+AI-Powered+Solutions;Crafting+Beautiful+Interfaces;Solving+Complex+Problems;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+<!-- Rotating Titles -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%F0%9F%9A%80;AI+Engineer+%F0%9F%A4%96;Problem+Solver+%F0%9F%A7%A9;Creative+Builder+%F0%9F%8E%A8;Tech+Enthusiast+%E2%9A%A1" alt="Titles" />
+</p>
 
-![Visitors](https://komarev.com/ghpvc/?username=kishore-balaji&color=36BCF7&style=flat-square&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/kishore-balaji?style=flat-square&color=36BCF7)
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+<!-- Badges with Animation -->
+<p>
+  <img src="https://img.shields.io/badge/⚡-LIVE_&_CODING-00ff00?style=for-the-badge&labelColor=000000&logo=lightning&logoColor=white" />
+  <img src="https://img.shields.io/badge/☕-POWERED_BY_COFFEE-brown?style=for-the-badge&labelColor=000000&logo=buy-me-a-coffee&logoColor=white" />
+  <img src="https://img.shields.io/badge/🌍-BUILDING_THE_FUTURE-blue?style=for-the-badge&labelColor=000000" />
+</p>
+
+<!-- Profile Stats -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=kishore-balaji&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/kishore-balaji?style=for-the-badge&color=00d9ff&labelColor=000000&logo=github&label=FOLLOWERS" />
+</p>
 
 </div>
 
@@ -96,15 +116,11 @@ Designing efficient databases, optimizing queries, managing data flows. From SQL
 
 ---
 
-## 📊 **GITHUB STATS**
+## 📊 **LEETCODE STATS**
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kishore-balaji&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishore-balaji&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=36BCF7" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kishore-balaji&theme=react&hide_border=true&background=0D1117&stroke=36BCF7&ring=36BCF7&fire=F6C915" width="49%" />
-<img src="https://leetcard.jacoblin.cool/kishore_balaji_03?theme=dark&font=Karma" width="49%" />
+<img src="https://leetcard.jacoblin.cool/kishore_balaji_03?theme=dark&font=Karma&ext=contest" width="70%" />
 
 </div>
 
@@ -114,37 +130,34 @@ Designing efficient databases, optimizing queries, managing data flows. From SQL
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="33%" valign="top">
 
 ### 🚀 **BUILDING**
-```
-• AI Chatbots
-• Web Apps
-• APIs
-• ML Models
-```
+
+- AI Chatbots
+- Web Apps  
+- APIs
+- ML Models
 
 </td>
-<td width="33%" align="center">
+<td width="33%" valign="top">
 
 ### 📚 **LEARNING**
-```
-• System Design
-• Kubernetes
-• Cloud (AWS/GCP)
-• GraphQL
-```
+
+- System Design
+- Kubernetes
+- Cloud (AWS/GCP)
+- GraphQL
 
 </td>
-<td width="33%" align="center">
+<td width="33%" valign="top">
 
 ### 🎓 **ACHIEVED**
-```
-• Oracle Cloud AI
-• 100+ LeetCode
-• 10+ Projects
-• 8.05 CGPA
-```
+
+- Oracle Cloud AI
+- 229 LeetCode Problems
+- 10+ Projects
+- 8.05 CGPA
 
 </td>
 </tr>
@@ -175,6 +188,9 @@ Designing efficient databases, optimizing queries, managing data flows. From SQL
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kishore-balaji-081168292)
 [![Email](https://img.shields.io/badge/📧_Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kishorebalajisivani@gmail.com)
 [![Instagram](https://img.shields.io/badge/📸_Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kishore_balaji_03)
+
+[![LeetCode](https://img.shields.io/badge/⚔️_LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/kishore_balaji_03)
+[![GitHub](https://img.shields.io/badge/💻_GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kishore-balaji)
 
 **Open for:** Collaborations • Freelance • Open Source • Opportunities
 
