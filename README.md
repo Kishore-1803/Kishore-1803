@@ -30,8 +30,6 @@
 
 <p align="center">
   <h1 align="center">⚔️ Welcome to My Code Realm ⚔️</h1>
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Loading+Player+Profile...;Initializing+Code+Matrix...;Welcome+to+the+Digital+Battlefield!" alt="Typing Animation" />
 </p>
 
 ---
@@ -155,7 +153,7 @@
 ### 🗃️ Database Fortress
 <div align="center">
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=postgresql,mongodb,supabase,neo4j&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=postgresql,mongodb,supabase&theme=dark)
 
 ```
     🏛️ DATA VAULTS 🏛️
