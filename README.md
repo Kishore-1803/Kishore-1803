@@ -1,94 +1,73 @@
 <!-- ====================================== -->
-<!-- MINIMALIST GLASSMORPHISM HEADER -->
+<!-- TERMINAL LOADING SCREEN -->
 <!-- ====================================== -->
 
 <div align="center">
 
-<br><br>
-
-# **KISHORE BALAJI**
-
-<h3>Architecting Intelligence • Crafting Experiences</h3>
-
-<br>
-
 ```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+████████████████████████████████████████████████████████████████████████████████████████████████
 
-<br>
+  ██╗  ██╗██╗███████╗██╗  ██╗ ██████╗ ██████╗ ███████╗    ██████╗  █████╗ ██╗      █████╗      ██╗██╗
+  ██║ ██╔╝██║██╔════╝██║  ██║██╔═══██╗██╔══██╗██╔════╝    ██╔══██╗██╔══██╗██║     ██╔══██╗     ██║██║
+  █████╔╝ ██║███████╗███████║██║   ██║██████╔╝█████╗      ██████╔╝███████║██║     ███████║     ██║██║
+  ██╔═██╗ ██║╚════██║██╔══██║██║   ██║██╔══██╗██╔══╝      ██╔══██╗██╔══██║██║     ██╔══██║██   ██║██║
+  ██║  ██╗██║███████║██║  ██║╚██████╔╝██║  ██║███████╗    ██████╔╝██║  ██║███████╗██║  ██║╚█████╔╝██║
+  ╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝    ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝ ╚════╝ ╚═╝
 
-**Full Stack Developer** × **AI Engineer** × **Problem Solver**
+████████████████████████████████████████████████████████████████████████████████████████████████
 
-<br>
+> SYSTEM INITIALIZING...
+> LOADING USER PROFILE...
+> STATUS: [████████████████████████████████████████] 100% COMPLETE
+> CONNECTION ESTABLISHED
 
-```
-B.Tech AI @ Amrita University  •  CGPA: 8.05  •  Graduating 2026
-```
-
-<br>
-
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+████████████████████████████████████████████████████████████████████████████████████████████████
 ```
 
 </div>
 
-<br><br>
+<br>
 
 <!-- ====================================== -->
-<!-- TECH STACK ORBIT -->
+<!-- SYSTEM PROFILE -->
 <!-- ====================================== -->
 
 <div align="center">
 
-## TECH STACK ORBIT
-
-<br>
-
-### **Core Engines**
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&theme=dark" alt="AI/ML Stack" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=fastapi,flask,postgresql,mongodb,supabase&theme=dark" alt="Backend Stack" />
-
-<br><br>
-
-### **Interface & Logic**
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=javascript,react,nextjs,tailwind,html,css&theme=dark" alt="Frontend Stack" />
-
-<br><br>
-
-### **Development Tools**
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,linux,postman&theme=dark" alt="Tools" />
-
-<br>
-
 ```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+╔═══════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                               ║
+║                                    SYSTEM PROFILE                                             ║
+║                                                                                               ║
+╠═══════════════════════════════════════════════════════════════════════════════════════════════╣
+║                                                                                               ║
+║  USER_ID           : Kishore Balaji                                                           ║
+║  ROLE              : AI Engineer & Full Stack Developer                                       ║
+║  LOCATION          : Coimbatore, India 🇮🇳                                                    ║
+║  EDUCATION         : B.Tech in Artificial Intelligence @ Amrita Vishwa Vidyapeetam            ║
+║  ACADEMIC_INDEX    : 8.05 / 10.0                                                              ║
+║  GRADUATION        : 2026                                                                     ║
+║  STATUS            : ACTIVE • BUILDING • LEARNING                                             ║
+║  SPECIALTY         : Architecting Intelligence × Crafting Digital Experiences                 ║
+║                                                                                               ║
+╚═══════════════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
-<br><br>
+<br>
 
 <!-- ====================================== -->
-<!-- CURRENT LAB - FEATURED PROJECTS -->
+<!-- TECH INVENTORY -->
 <!-- ====================================== -->
 
 <div align="center">
 
-## CURRENT LAB
+```
+████████████████████████████████████████████████████████████████████████████████████████████████
+                                     TECH INVENTORY                                             
+████████████████████████████████████████████████████████████████████████████████████████████████
+```
 
 </div>
 
@@ -98,42 +77,87 @@ B.Tech AI @ Amrita University  •  CGPA: 8.05  •  Graduating 2026
 <tr>
 <td width="50%" valign="top">
 
-### **🤖 Thala – AI Agent**
+<div align="center">
 
-**Intelligent Incident Management System**
+```
+╔════════════════════════════════════╗
+║   LOGIC & INTELLIGENCE LAYER       ║
+╚════════════════════════════════════╝
+```
 
-**Technology:**
-- Llama 3.3 70B for natural language understanding
-- Apache Kafka for real-time event streaming
-- Slack & Jira API integrations
-- FastAPI backend architecture
-- PostgreSQL for data persistence
+<br>
 
-**Impact:**
-- Automated ticket classification and routing
-- 60% reduction in response time
-- Real-time incident tracking and analytics
-- Seamless workflow automation
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&theme=dark" alt="AI Stack" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask&theme=dark" alt="Backend Frameworks" />
+
+<br><br>
+
+```
+────────────────────────────────────
+  Python      ████████████████ 95%
+  TensorFlow  █████████████░░░ 85%
+  PyTorch     ██████████████░░ 87%
+  OpenCV      ████████████░░░░ 80%
+  FastAPI     ████████████████ 92%
+  Flask       ███████████████░ 88%
+────────────────────────────────────
+```
+
+**CAPABILITIES:**
+- Neural Networks & Deep Learning
+- Computer Vision & NLP
+- LLM Integration (Llama 3.3)
+- RESTful API Architecture
+- Event Streaming (Kafka)
+- Real-time Processing
+
+</div>
 
 </td>
 <td width="50%" valign="top">
 
-### **💰 Sakhis' Ledger**
+<div align="center">
 
-**Financial Literacy Gamification Platform**
+```
+╔════════════════════════════════════╗
+║   CLIENT & STORAGE LAYER           ║
+╚════════════════════════════════════╝
+```
 
-**Technology:**
-- Next.js 14 with App Router
-- React Server Components
-- TailwindCSS for responsive UI
-- Supabase for authentication & database
-- Real-time progress tracking
+<br>
 
-**Impact:**
-- Interactive financial education modules
-- Gamified learning experience
-- Community-driven content
-- Empowering women with financial knowledge
+<img src="https://skillicons.dev/icons?i=javascript,react,nextjs,tailwind&theme=dark" alt="Frontend Stack" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb,supabase&theme=dark" alt="Database Stack" />
+
+<br><br>
+
+```
+────────────────────────────────────
+  JavaScript  ███████████████░ 90%
+  React       ████████████████ 93%
+  Next.js     ████████████████ 92%
+  TailwindCSS █████████████░░░ 85%
+  PostgreSQL  ████████████████ 94%
+  MongoDB     ███████████████░ 88%
+  Supabase    ██████████████░░ 87%
+────────────────────────────────────
+```
+
+**CAPABILITIES:**
+- Modern React Ecosystem
+- Server-Side Rendering
+- Responsive UI/UX Design
+- Relational & NoSQL Databases
+- Real-time Data Sync
+- Cloud-Native Solutions
+
+</div>
 
 </td>
 </tr>
@@ -141,155 +165,315 @@ B.Tech AI @ Amrita University  •  CGPA: 8.05  •  Graduating 2026
 
 <br>
 
+<div align="center">
+
 ```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+████████████████████████████████████████████████████████████████████████████████████████████████
+                                   DEVELOPMENT TOOLS                                            
+████████████████████████████████████████████████████████████████████████████████████████████████
 ```
 
-<br><br>
+<br>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,linux,postman&theme=dark" alt="DevTools" />
+
+</div>
+
+<br>
 
 <!-- ====================================== -->
-<!-- COMPACT STATS -->
+<!-- CODING DNA -->
 <!-- ====================================== -->
 
 <div align="center">
 
-## METRICS
-
-<br>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kishore-balaji&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=10b981&icon_color=10b981&text_color=c9d1d9&ring_color=10b981" alt="GitHub Stats" />
-<img height="180em" src="https://leetcard.jacoblin.cool/kishore_balaji_03?theme=dark&font=Ubuntu&ext=contest&border=0" alt="LeetCode Stats" />
-
-<br><br>
-
-<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishore-balaji&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=10b981&text_color=c9d1d9" alt="Top Languages" />
-
-<br><br>
-
-**229** Problems Solved • **8.05** CGPA • **10+** Projects Deployed • **Oracle Cloud AI** Certified
-
-<br>
-
 ```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+████████████████████████████████████████████████████████████████████████████████████████████████
+                                      CODING DNA                                                
+████████████████████████████████████████████████████████████████████████████████████████████████
 ```
 
 </div>
 
-<br><br>
+<br>
+
+```javascript
+const codingDNA = {
+  identity: {
+    name: "Kishore Balaji",
+    type: "Full Stack Developer & AI Engineer",
+    version: "2025.2.0",
+    build: "stable",
+    architecture: "hybrid"
+  },
+  
+  core: {
+    languages: ["Python", "JavaScript", "TypeScript", "SQL"],
+    paradigms: ["Functional", "Object-Oriented", "Event-Driven"],
+    principles: ["Clean Code", "DRY", "SOLID", "Scalability"]
+  },
+  
+  intelligence: {
+    frameworks: ["TensorFlow", "PyTorch", "LangChain"],
+    specialization: ["LLM Integration", "Computer Vision", "NLP"],
+    currentModel: "Llama 3.3 70B",
+    deployment: ["RAG Systems", "AI Agents", "Chatbots"]
+  },
+  
+  engineering: {
+    backend: ["FastAPI", "Flask", "Node.js"],
+    frontend: ["React 18", "Next.js 14", "TailwindCSS"],
+    databases: ["PostgreSQL", "MongoDB", "Supabase"],
+    infrastructure: ["Docker", "Kafka", "Git"]
+  },
+  
+  activeProjects: {
+    thala: {
+      description: "AI-powered incident management system",
+      stack: ["Llama 3.3", "Kafka", "FastAPI", "PostgreSQL"],
+      integrations: ["Slack", "Jira"],
+      impact: "60% faster incident resolution"
+    },
+    sakhisLedger: {
+      description: "Financial literacy gamification platform",
+      stack: ["Next.js", "React", "Supabase", "TailwindCSS"],
+      audience: "Women empowerment & financial education",
+      status: "Production"
+    }
+  },
+  
+  metrics: {
+    problemsSolved: 229,
+    projectsDeployed: 10,
+    academicScore: 8.05,
+    certifications: ["Oracle Cloud AI Foundations"],
+    coffeeConsumed: Infinity
+  },
+  
+  philosophy: {
+    motto: "Build with empathy, code with purpose, ship with confidence",
+    approach: "Iterate fast • Ship faster • Learn fastest",
+    belief: "Technology should amplify human potential"
+  },
+  
+  operatingMode: {
+    state: "ACTIVE",
+    focus: ["AI Systems", "Full Stack Apps", "Open Source"],
+    learning: ["System Design", "Cloud Architecture", "Advanced ML"],
+    availability: "Open for collaboration"
+  }
+};
+
+// Runtime Execution
+console.log(`[${new Date().toISOString()}] System initialized: ${codingDNA.identity.name}`);
+console.log(`[STATUS] ${codingDNA.operatingMode.state} - ${codingDNA.philosophy.motto}`);
+```
+
+<br>
 
 <!-- ====================================== -->
-<!-- DIGITAL FOOTPRINT -->
+<!-- ACTIVE MISSIONS -->
 <!-- ====================================== -->
 
 <div align="center">
 
-## DIGITAL FOOTPRINT
-
-<br>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-kishore--balaji.vercel.app-10b981?style=flat&labelColor=1a1a1a)](https://kishore-balaji.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kishore_Balaji-10b981?style=flat&labelColor=1a1a1a&logo=linkedin&logoColor=10b981)](https://www.linkedin.com/in/kishore-balaji-081168292)
-[![Email](https://img.shields.io/badge/Email-kishorebalajisivani@gmail.com-10b981?style=flat&labelColor=1a1a1a&logo=gmail&logoColor=10b981)](mailto:kishorebalajisivani@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-kishore__balaji__03-10b981?style=flat&labelColor=1a1a1a&logo=leetcode&logoColor=10b981)](https://leetcode.com/kishore_balaji_03)
-[![GitHub](https://img.shields.io/badge/GitHub-kishore--balaji-10b981?style=flat&labelColor=1a1a1a&logo=github&logoColor=10b981)](https://github.com/kishore-balaji)
-
-<br>
-
 ```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+████████████████████████████████████████████████████████████████████████████████████████████████
+                                    ACTIVE MISSIONS                                             
+████████████████████████████████████████████████████████████████████████████████████████████████
 ```
 
 </div>
 
-<br><br>
-
-<!-- ====================================== -->
-<!-- PHILOSOPHY & APPROACH -->
-<!-- ====================================== -->
+<br>
 
 <div align="center">
 
-## PHILOSOPHY
-
-<br>
-
-> *"Every algorithm is an opportunity to solve a meaningful problem.*  
-> *Every interface is a canvas to craft delightful experiences.*  
-> *Every line of code is a step toward a more intelligent future."*
-
-<br>
-
-**Approach:** Iterate fast • Ship faster • Learn fastest
-
-<br>
-
 ```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+╔═══════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                               ║
+║  [MISSION-01] Building AI-powered web applications with LLM integration                       ║
+║  [MISSION-02] Learning system design patterns and cloud architecture                          ║
+║  [MISSION-03] Contributing to open-source projects and developer tools                        ║
+║  [MISSION-04] Exploring advanced RAG systems and microservices architecture                   ║
+║                                                                                               ║
+╚═══════════════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
-<br><br>
+<br>
 
 <!-- ====================================== -->
-<!-- CURRENT FOCUS -->
+<!-- ACHIEVEMENTS -->
 <!-- ====================================== -->
 
 <div align="center">
 
-## CURRENT FOCUS
-
-<br>
-
-**Building** → AI-powered web applications with LLM integration  
-**Learning** → System design patterns & cloud architecture  
-**Exploring** → Advanced RAG systems & microservices
-
-<br>
-
 ```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+████████████████████████████████████████████████████████████████████████████████████████████████
+                                   ACHIEVEMENT LOGS                                             
+████████████████████████████████████████████████████████████████████████████████████████████████
 ```
 
 </div>
 
-<br><br>
+<br>
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────────────────────────────────────┐
+│  🎯 LeetCode Warrior         │ 229/3130 problems solved                                      │
+│  🏗️  Full Stack Architect     │ 10+ production applications deployed                          │
+│  🤖 AI Engineer              │ Multiple ML models in live environments                       │
+│  ☁️  Cloud Certified          │ Oracle Cloud Infrastructure AI Foundations                    │
+│  🎓 Academic Excellence      │ 8.05 CGPA in Artificial Intelligence                          │
+│  🌟 Open Source Contributor  │ Active in community projects                                  │
+└─────────────────────────────────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+<br>
 
 <!-- ====================================== -->
-<!-- COLLABORATION -->
+<!-- COMMAND CENTER LINKS -->
 <!-- ====================================== -->
 
 <div align="center">
 
-## OPEN FOR COLLABORATION
+```
+████████████████████████████████████████████████████████████████████████████████████████████████
+                                  COMMAND CENTER LINKS                                          
+████████████████████████████████████████████████████████████████████████████████████████████████
+```
 
 <br>
 
-**Seeking:** Innovative projects at the intersection of AI and web development  
-**Offering:** Full-stack expertise, AI/ML integration, clean architecture
+![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-kishore--balaji.vercel.app-A855F7?style=for-the-badge&labelColor=0a0a0a&color=A855F7)
+![LinkedIn](https://img.shields.io/badge/💼_LINKEDIN-Kishore_Balaji-A855F7?style=for-the-badge&labelColor=0a0a0a&color=A855F7&logo=linkedin)
+![Email](https://img.shields.io/badge/📧_EMAIL-Contact-A855F7?style=for-the-badge&labelColor=0a0a0a&color=A855F7&logo=gmail)
+
+![LeetCode](https://img.shields.io/badge/⚔️_LEETCODE-kishore__balaji__03-84CC16?style=for-the-badge&labelColor=0a0a0a&color=84CC16&logo=leetcode)
+![GitHub](https://img.shields.io/badge/💻_GITHUB-kishore--balaji-84CC16?style=for-the-badge&labelColor=0a0a0a&color=84CC16&logo=github)
+![Instagram](https://img.shields.io/badge/📸_INSTAGRAM-Follow-84CC16?style=for-the-badge&labelColor=0a0a0a&color=84CC16&logo=instagram)
+
+</div>
 
 <br>
 
-*Let's build something extraordinary together.*
+<!-- ====================================== -->
+<!-- SYSTEM PHILOSOPHY -->
+<!-- ====================================== -->
 
-<br><br>
+<div align="center">
 
-```typescript
+```
+████████████████████████████████████████████████████████████████████████████████████████████████
+                                  SYSTEM PHILOSOPHY                                             
+████████████████████████████████████████████████████████████████████████████████████████████████
+```
+
+</div>
+
+<br>
+
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                               ║
+║  "Every algorithm is an opportunity to solve meaningful problems.                             ║
+║   Every interface is a canvas for crafting delightful experiences.                            ║
+║   Every line of code is a step toward a more intelligent future."                             ║
+║                                                                                               ║
+║  → Build with empathy                                                                         ║
+║  → Code with purpose                                                                          ║
+║  → Ship with confidence                                                                       ║
+║  → Learn relentlessly                                                                         ║
+║                                                                                               ║
+╚═══════════════════════════════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<br>
+
+<!-- ====================================== -->
+<!-- RUNTIME LOOP -->
+<!-- ====================================== -->
+
+<div align="center">
+
+```javascript
+// Main Execution Loop
 while (alive) {
+  explore();
   learn();
   build();
   ship();
   iterate();
+  optimize();
 }
+
+// Process complete. System ready for next challenge.
 ```
 
+</div>
+
+<br>
+
+<!-- ====================================== -->
+<!-- SYSTEM ACTIVITY LOG -->
+<!-- ====================================== -->
+
+<div align="center">
+
+```
+████████████████████████████████████████████████████████████████████████████████████████████████
+                                  SYSTEM ACTIVITY LOG                                           
+████████████████████████████████████████████████████████████████████████████████████████████████
+```
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kishore-balaji/kishore-balaji/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kishore-balaji/kishore-balaji/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
 <br><br>
 
----
+```
+> ACTIVITY_MONITOR: TRACKING CONTRIBUTIONS...
+> COMMITS: DAILY | STREAKS: ACTIVE | CONSISTENCY: HIGH
+> LAST_PUSH: RECENT | STATUS: BUILDING
+```
 
-<sub>Designed with precision • Built with passion • Powered by curiosity</sub>
+</div>
 
-<br><br>
+<br>
+
+<!-- ====================================== -->
+<!-- FOOTER -->
+<!-- ====================================== -->
+
+<div align="center">
+
+```
+████████████████████████████████████████████████████████████████████████████████████████████████
+
+> SYSTEM SIGNATURE: Designed with precision • Built with passion • Powered by curiosity
+> OPEN_FOR: Collaborations • Innovative Projects • Knowledge Exchange
+> STATUS: Ready to build the future, one commit at a time
+
+████████████████████████████████████████████████████████████████████████████████████████████████
+
+[EOF]
+
+████████████████████████████████████████████████████████████████████████████████████████████████
+```
 
 </div>
