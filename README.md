@@ -28,452 +28,392 @@
 
 <br>
 
-<!-- ====================================== -->
-<!-- SYSTEM PROFILE -->
-<!-- ====================================== -->
+# ⚔️ Welcome to My Code Realm ⚔️
 
 <div align="center">
-
-```
-╔═══════════════════════════════════════════════════════════════════════════════════════════════╗
-║                                                                                               ║
-║                                    SYSTEM PROFILE                                             ║
-║                                                                                               ║
-╠═══════════════════════════════════════════════════════════════════════════════════════════════╣
-║                                                                                               ║
-║  USER_ID           : Kishore Balaji                                                           ║
-║  ROLE              : AI Engineer & Full Stack Developer                                       ║
-║  LOCATION          : Coimbatore, India 🇮🇳                                                    ║
-║  EDUCATION         : B.Tech in Artificial Intelligence @ Amrita Vishwa Vidyapeetam            ║
-║  ACADEMIC_INDEX    : 8.05 / 10.0                                                              ║
-║  GRADUATION        : 2026                                                                     ║
-║  STATUS            : ACTIVE • BUILDING • LEARNING                                             ║
-║  SPECIALTY         : Architecting Intelligence × Crafting Digital Experiences                 ║
-║                                                                                               ║
-╚═══════════════════════════════════════════════════════════════════════════════════════════════╝
-```
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Loading+Player+Profile...;Initializing+Code+Matrix...;Welcome+to+the+Digital+Battlefield!" alt="Typing Animation" />
 
 </div>
 
-<br>
+---
 
-<!-- ====================================== -->
-<!-- TECH INVENTORY -->
-<!-- ====================================== -->
+## 🎯 Quest Menu
 
 <div align="center">
 
-```
-████████████████████████████████████████████████████████████████████████████████████████████████
-                                     TECH INVENTORY                                             
-████████████████████████████████████████████████████████████████████████████████████████████████
-```
+| 🏠 [Character Info](#-character-profile) | ⚔️ [Skills & Abilities](#️-skills--abilities) | 🎮 [Active Quests](#-active-quests) | 🌍 [Guild Connections](#-guild-connections) |
+|:---:|:---:|:---:|:---:|
 
 </div>
 
-<br>
+---
 
-<table width="100%">
+## 🏠 Character Profile
+
+<table>
 <tr>
-<td width="50%" valign="top">
+<td width="40%">
 
-<div align="center">
-
+### 👑 Player Stats
+```yaml
+🎮 Player ID: Kishore Balaji
+🏆 Class: Full Stack Developer & AI Mage
+🌍 Server: Amrita Vishwa Vidyapeetam, Coimbatore
+📊 Level: 21 (CGPA: 8.15/10.0)
+⚡ Status: Ready for Co-op Missions
+🎯 Current Quest: AI-Powered Web Applications
+🔥 Specialization: Multi-Class (Frontend/Backend/AI)
+☕ Mana: ████████░░ 80%
 ```
-╔════════════════════════════════════╗
-║   LOGIC & INTELLIGENCE LAYER       ║
-╚════════════════════════════════════╝
-```
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&theme=dark" alt="AI Stack" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=fastapi,flask&theme=dark" alt="Backend Frameworks" />
-
-<br><br>
-
-```
-────────────────────────────────────
-  Python      ████████████████ 95%
-  TensorFlow  █████████████░░░ 85%
-  PyTorch     ██████████████░░ 87%
-  OpenCV      ████████████░░░░ 80%
-  FastAPI     ████████████████ 92%
-  Flask       ███████████████░ 88%
-────────────────────────────────────
-```
-
-**CAPABILITIES:**
-- Neural Networks & Deep Learning
-- Computer Vision & NLP
-- LLM Integration (Llama 3.3)
-- RESTful API Architecture
-- Event Streaming (Kafka)
-- Real-time Processing
-
-</div>
 
 </td>
-<td width="50%" valign="top">
+<td width="60%">
+
+### 📈 Character Attributes
 
 <div align="center">
 
 ```
-╔════════════════════════════════════╗
-║   CLIENT & STORAGE LAYER           ║
-╚════════════════════════════════════╝
+        🎮 RPG STATS 🎮
+    ┌──────────────────────────────────────────────────┐
+    │ 🧩 PROBLEM SOLVING    ███████████████████░ 95%   │
+    │ 🎯 FOCUS              ██████████████████░░ 90%   │
+    │ 🤝 TEAMWORK           ███████████████████░ 95%   │
+    │ 📚 ADAPTABILITY       ████████████████████ 100%  │
+    │ ⚙️ DEBUGGING          █████████████████░░░ 85%   │
+    │ 🎨 CREATIVITY         ██████████████████░░ 90%   │
+    └──────────────────────────────────────────────────┘
 ```
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=javascript,react,nextjs,tailwind&theme=dark" alt="Frontend Stack" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=postgresql,mongodb,supabase&theme=dark" alt="Database Stack" />
-
-<br><br>
-
-```
-────────────────────────────────────
-  JavaScript  ███████████████░ 90%
-  React       ████████████████ 93%
-  Next.js     ████████████████ 92%
-  TailwindCSS █████████████░░░ 85%
-  PostgreSQL  ████████████████ 94%
-  MongoDB     ███████████████░ 88%
-  Supabase    ██████████████░░ 87%
-────────────────────────────────────
-```
-
-**CAPABILITIES:**
-- Modern React Ecosystem
-- Server-Side Rendering
-- Responsive UI/UX Design
-- Relational & NoSQL Databases
-- Real-time Data Sync
-- Cloud-Native Solutions
 
 </div>
+
+**🎲 Special Abilities Unlocked:**
+- 🔍 Bug Hunter (Legendary)
+- ☕ Coffee-to-Code Transmutation (Epic)
+- 🌙 Nocturnal Coding Boost (Rare)
+- 🔧 Stack Overflow Summoning (Common)
 
 </td>
 </tr>
 </table>
 
-<br>
+---
 
+## ⚔️ Skills & Abilities
+
+### 💻 Programming Arsenal
 <div align="center">
 
-```
-████████████████████████████████████████████████████████████████████████████████████████████████
-                                   DEVELOPMENT TOOLS                                            
-████████████████████████████████████████████████████████████████████████████████████████████████
-```
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,linux,postman&theme=dark" alt="DevTools" />
-
-</div>
-
-<br>
-
-<!-- ====================================== -->
-<!-- CODING DNA -->
-<!-- ====================================== -->
-
-<div align="center">
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,cpp&theme=dark)
 
 ```
-████████████████████████████████████████████████████████████████████████████████████████████████
-                                      CODING DNA                                                
-████████████████████████████████████████████████████████████████████████████████████████████████
+    🗡️ WEAPON MASTERY 🗡️
+    ┌---------------------------------------------------┐
+    │🐍 Python Staff      ████████████████████ LVL 19   │
+    │ ⚡ C++ Hammer        ██████████████████░░ LVL 18 │
+    └---------------------------------------------------┘
 ```
 
 </div>
 
-<br>
+### 🧙‍♂️ AI/ML Magic School
+<div align="center">
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=tensorflow,pytorch,numpy,pandas,opencv,matplotlib,seaborn&theme=dark)
+
+```
+    🔮 MAGIC SPELLS 🔮
+    ┌───────────────────────────────────────────────────┐
+    │ 🤖 Machine Learning   ████████████████░░░░ LVL 16 │
+    │ 🧠 Deep Learning      ██████████████░░░░░░ LVL 14 │
+    │ 🎯 LLM Summoning      ███████████████████░ LVL 19 │
+    │ ✨ Prompt Enchanting  ██████████████████░░ LVL 18 │
+    │ 📊 Data Visualization █████████████████░░░ LVL 17 │
+    └───────────────────────────────────────────────────┘
+```
+
+</div>
+
+### 🏰 Web Development Kingdom
+<div align="center">
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,react,next,express,flask,fastapi&theme=dark)
+
+```
+    🏗️ BUILDING SKILLS 🏗️
+    ┌────────────────────────────────────────────────────┐
+    │ 🎨 HTML/CSS Foundation ████████████████████ EXPERT    │
+    │ ⚛️ React.js Temple     ██████████████████░░ LVL 18 │
+    │ 🚀 Next.js Rocket      ██████████████████░░ LVL 18 │
+    │ 🟢 Express.js Bridge   ███████████████░░░░░ LVL 15 │
+    │ 🌶️ Flask Potion       ████████████████░░░░ LVL 16  │
+    │ ⚡ FastAPI Lightning   ███████████████████░ LVL 19 │
+    └────────────────────────────────────────────────────┘
+```
+
+</div>
+
+### 🗃️ Database Fortress
+<div align="center">
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=postgresql,mongodb,supabase,neo4j&theme=dark)
+
+```
+    🏛️ DATA VAULTS 🏛️
+    ┌────────────────────────────────────────────────────┐
+    │ 🐘 PostgreSQL Castle  ███████████████████░ LVL 19  │
+    │ 🍃 MongoDB Forest      ██████████████████░░ LVL 18 │
+    │ ⚡ Supabase Cloud      ████████████████░░░░ LVL 16 │
+    │ 📋 SQL Scrolls        ██████████████████░░ LVL 18  │
+    └────────────────────────────────────────────────────┘
+```
+
+</div>
+
+### 🛠️ Developer's Toolkit
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,render&theme=dark" />
+
+```
+    🔧 UTILITY BELT 🔧
+    ┌───────────────────────────────────────────────────┐
+    │ 📝 Git/GitHub Master  ████████████████████ EXPERT    │
+    │ 💻 VS Code Blade      ████████████████████ EXPERT    │
+    │ 🚀 Vercel Deploy      ███████████████████░ LVL 19 │
+    │ 🔄 CI/CD Automation   ██████████████░░░░░░ LVL 14 │
+    └───────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+## 🎮 Active Quests
+
+<div align="center">
+
+### 🌟 Main Story Quests
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🔥 Current Objectives
+```diff
+🎯 ACTIVE MISSIONS:
++ 🤖 Building AI-powered web applications
++ 🌟 Contributing to open-source guilds
++ ⚛️ Mastering advanced React patterns
++ 🔗 Exploring blockchain realms
++ 🛠️ Crafting developer tools
++ 🎓 Learning system architecture
+```
+
+</td>
+<td width="50%">
+
+#### 🚀 Side Quests
+```diff
+⚡ SKILL GRINDING:
+! 🏗️ System design mastery
+! ☁️ Cloud computing (AWS/GCP)
+! 📊 Advanced data structures
+! 🔧 Microservices architecture
+! 🤖 DevOps automation
+! 📱 Mobile development (React Native)
+```
+
+</td>
+</tr>
+</table>
+
+### 🏆 Achievement Board
+
+<div align="center">
+
+| 🏅 Achievement | 📊 Progress | 🎯 Reward | 📝 Description |
+|:---:|:---:|:---:|:---|
+| 🎯 **Code Warrior** | ████████████████████ 100% | Legendary | Solved 100+ coding challenges |
+| 🏗️ **Stack Master** | ██████████████████░░ 90% | Epic | Built 10+ full-stack applications |
+| 🤖 **AI Apprentice** | ████████████████░░░░ 80% | Rare | Implemented ML models in projects |
+| 🛠️ **Tool Crafter** | ██████████░░░░░░░░░░ 50% | Common | Developed utility applications |
+| 🎓 **Knowledge Seeker** | ███████████████████░ 95% | Epic | Oracle Cloud AI Certification |
+
+</div>
+
+---
+
+## 🎨 Code Philosophy & Combat Style
+
+<div align="center">
 
 ```javascript
-const codingDNA = {
-  identity: {
-    name: "Kishore Balaji",
-    type: "Full Stack Developer & AI Engineer",
-    version: "2025.2.0",
-    build: "stable",
-    architecture: "hybrid"
+const playerStrategy = {
+  combatStyle: "Adaptive Multi-Class Fighter",
+  codePhilosophy: {
+    design: "User-first, always prioritize UX",
+    architecture: "Clean, scalable, maintainable",
+    testing: "Test early, test often, sleep peacefully",
+    learning: "Never stop grinding, always level up",
+    teamwork: "Guild > Solo play, collaboration wins"
   },
   
-  core: {
-    languages: ["Python", "JavaScript", "TypeScript", "SQL"],
-    paradigms: ["Functional", "Object-Oriented", "Event-Driven"],
-    principles: ["Clean Code", "DRY", "SOLID", "Scalability"]
+  battleCry: function() {
+    return "Code is poetry, bugs are just mini-bosses to defeat! 🗡️";
   },
   
-  intelligence: {
-    frameworks: ["TensorFlow", "PyTorch", "LangChain"],
-    specialization: ["LLM Integration", "Computer Vision", "NLP"],
-    currentModel: "Llama 3.3 70B",
-    deployment: ["RAG Systems", "AI Agents", "Chatbots"]
-  },
-  
-  engineering: {
-    backend: ["FastAPI", "Flask", "Node.js"],
-    frontend: ["React 18", "Next.js 14", "TailwindCSS"],
-    databases: ["PostgreSQL", "MongoDB", "Supabase"],
-    infrastructure: ["Docker", "Kafka", "Git"]
-  },
-  
-  activeProjects: {
-    thala: {
-      description: "AI-powered incident management system",
-      stack: ["Llama 3.3", "Kafka", "FastAPI", "PostgreSQL"],
-      integrations: ["Slack", "Jira"],
-      impact: "60% faster incident resolution"
-    },
-    sakhisLedger: {
-      description: "Financial literacy gamification platform",
-      stack: ["Next.js", "React", "Supabase", "TailwindCSS"],
-      audience: "Women empowerment & financial education",
-      status: "Production"
-    }
-  },
-  
-  metrics: {
-    problemsSolved: 229,
-    projectsDeployed: 10,
-    academicScore: 8.05,
-    certifications: ["Oracle Cloud AI Foundations"],
-    coffeeConsumed: Infinity
-  },
-  
-  philosophy: {
-    motto: "Build with empathy, code with purpose, ship with confidence",
-    approach: "Iterate fast • Ship faster • Learn fastest",
-    belief: "Technology should amplify human potential"
-  },
-  
-  operatingMode: {
-    state: "ACTIVE",
-    focus: ["AI Systems", "Full Stack Apps", "Open Source"],
-    learning: ["System Design", "Cloud Architecture", "Advanced ML"],
-    availability: "Open for collaboration"
-  }
+  dailyRitual: [
+    "☕ Brew coffee (+50 focus)",
+    "📚 Read tech blogs (+10 knowledge)",  
+    "💻 Code for 6+ hours (+100 XP)",
+    "🎵 Lo-fi music (+25 productivity)",
+    "🔍 Debug & refactor (+50 clean code)"
+  ]
 };
-
-// Runtime Execution
-console.log(`[${new Date().toISOString()}] System initialized: ${codingDNA.identity.name}`);
-console.log(`[STATUS] ${codingDNA.operatingMode.state} - ${codingDNA.philosophy.motto}`);
-```
-
-<br>
-
-<!-- ====================================== -->
-<!-- ACTIVE MISSIONS -->
-<!-- ====================================== -->
-
-<div align="center">
-
-```
-████████████████████████████████████████████████████████████████████████████████████████████████
-                                    ACTIVE MISSIONS                                             
-████████████████████████████████████████████████████████████████████████████████████████████████
 ```
 
 </div>
 
-<br>
+---
+
+## 🌈 Player's Tavern (Fun Zone)
 
 <div align="center">
 
+### 🍺 Random Developer Lore
+
+</div>
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+**🌙 Optimal Raid Time**  
 ```
-╔═══════════════════════════════════════════════════════════════════════════════════════════════╗
-║                                                                                               ║
-║  [MISSION-01] Building AI-powered web applications with LLM integration                       ║
-║  [MISSION-02] Learning system design patterns and cloud architecture                          ║
-║  [MISSION-03] Contributing to open-source projects and developer tools                        ║
-║  [MISSION-04] Exploring advanced RAG systems and microservices architecture                   ║
-║                                                                                               ║
-╚═══════════════════════════════════════════════════════════════════════════════════════════════╝
+⏰ 11 PM - 3 AM
+🌟 Night Owl Bonus: +200% Focus
+🎯 When NPCs sleep, legends code
+```
+
+</td>
+<td width="33%" align="center">
+
+**⚡ Power-Up Potion**  
+```
+☕ Strong Black Coffee
+💊 Effect: Instant Debug Vision
+🔥 Duration: 4 hours
+⚠️ Side Effect: Hyperactivity
+```
+
+</td>
+<td width="33%" align="center">
+
+**🎵 Battle Soundtrack**  
+```
+🎶 Lo-fi Hip Hop Beats
+🧠 Buff: +300% Concentration
+🎧 Background music for coding raids
+🎮 Perfect for grinding sessions
+```
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 🎪 Daily Status Check
+
+**Current Mood:** `motivated && caffeinated && ready_to_ship` ✅
+
+```
+🎮 Today's Energy Level:
+Health: ████████████████████ 100% | Full HP!
+Mana:   ████████████████░░░░ 80%  | Ready to cast
+Focus:  ███████████████████░ 95%  | In the zone
+Hype:   ████████████████████ 100% | LET'S GOOO! 🚀
 ```
 
 </div>
 
-<br>
+---
 
-<!-- ====================================== -->
-<!-- ACHIEVEMENTS -->
-<!-- ====================================== -->
+## 🌍 Guild Connections
 
 <div align="center">
 
-```
-████████████████████████████████████████████████████████████████████████████████████████████████
-                                   ACHIEVEMENT LOGS                                             
-████████████████████████████████████████████████████████████████████████████████████████████████
-```
+### 🤝 Join My Network
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+**🌐 Main Base**  
+[kishore-balaji.vercel.app](https://kishore-balaji.vercel.app/)  
+*🏰 My digital fortress*
+
+</td>
+<td align="center" width="25%">
+
+**💼 Professional Guild**  
+[LinkedIn Profile](https://www.linkedin.com/in/kishore-balaji-081168292)  
+*🤝 Business network HQ*
+
+</td>
+<td align="center" width="25%">
+
+**📸 Social Hub**  
+[@kishore_balaji_03](https://www.instagram.com/kishore_balaji_03)  
+*📱 Life behind the code*
+
+</td>
+<td align="center" width="25%">
+
+**📧 Direct Message**  
+kishorebalajisivani@gmail.com  
+*📨 Instant communication*
+
+</td>
+</tr>
+</table>
+
+### 🎯 Coding Arena Stats
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/kishore_balaji_03?theme=dark&font=source_code_pro&ext=contest" alt="LeetCode Battle Stats" />
+</div>
 
 </div>
 
-<br>
+---
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────────────────────────────────────────┐
-│  🎯 LeetCode Warrior         │ 229/3130 problems solved                                      │
-│  🏗️  Full Stack Architect     │ 10+ production applications deployed                          │
-│  🤖 AI Engineer              │ Multiple ML models in live environments                       │
-│  ☁️  Cloud Certified          │ Oracle Cloud Infrastructure AI Foundations                    │
-│  🎓 Academic Excellence      │ 8.05 CGPA in Artificial Intelligence                          │
-│  🌟 Open Source Contributor  │ Active in community projects                                  │
-└─────────────────────────────────────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
-<br>
-
-<!-- ====================================== -->
-<!-- COMMAND CENTER LINKS -->
-<!-- ====================================== -->
-
-<div align="center">
+### 🎭 End Credits... Or New Game+?
 
 ```
-████████████████████████████████████████████████████████████████████████████████████████████████
-                                  COMMAND CENTER LINKS                                          
-████████████████████████████████████████████████████████████████████████████████████████████████
+     ╔══════════════════════════════════════════╗
+     ║  "A good developer codes for today,      ║
+     ║   a great developer codes for tomorrow,  ║
+     ║   but a legendary developer codes for    ║
+     ║   the bugs they haven't discovered yet." ║
+     ║                                          ║
+     ║        - Ancient Code Master 🧙‍♂️          ║
+     ╚══════════════════════════════════════════╝
 ```
 
-<br>
+**🎮 Thanks for visiting my digital realm!** 🌟  
+*🚀 Now go forth and build something epic!*
 
-![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-kishore--balaji.vercel.app-A855F7?style=for-the-badge&labelColor=0a0a0a&color=A855F7)
-![LinkedIn](https://img.shields.io/badge/💼_LINKEDIN-Kishore_Balaji-A855F7?style=for-the-badge&labelColor=0a0a0a&color=A855F7&logo=linkedin)
-![Email](https://img.shields.io/badge/📧_EMAIL-Contact-A855F7?style=for-the-badge&labelColor=0a0a0a&color=A855F7&logo=gmail)
+---
 
-![LeetCode](https://img.shields.io/badge/⚔️_LEETCODE-kishore__balaji__03-84CC16?style=for-the-badge&labelColor=0a0a0a&color=84CC16&logo=leetcode)
-![GitHub](https://img.shields.io/badge/💻_GITHUB-kishore--balaji-84CC16?style=for-the-badge&labelColor=0a0a0a&color=84CC16&logo=github)
-![Instagram](https://img.shields.io/badge/📸_INSTAGRAM-Follow-84CC16?style=for-the-badge&labelColor=0a0a0a&color=84CC16&logo=instagram)
+**🔄 This profile auto-updates with my coding adventures and caffeine levels**  
+**⭐ Don't forget to star my repositories if you find them worthy!**
 
-</div>
-
-<br>
-
-<!-- ====================================== -->
-<!-- SYSTEM PHILOSOPHY -->
-<!-- ====================================== -->
-
-<div align="center">
-
-```
-████████████████████████████████████████████████████████████████████████████████████████████████
-                                  SYSTEM PHILOSOPHY                                             
-████████████████████████████████████████████████████████████████████████████████████████████████
-```
-
-</div>
-
-<br>
-
-<div align="center">
-
-```
-╔═══════════════════════════════════════════════════════════════════════════════════════════════╗
-║                                                                                               ║
-║  "Every algorithm is an opportunity to solve meaningful problems.                             ║
-║   Every interface is a canvas for crafting delightful experiences.                            ║
-║   Every line of code is a step toward a more intelligent future."                             ║
-║                                                                                               ║
-║  → Build with empathy                                                                         ║
-║  → Code with purpose                                                                          ║
-║  → Ship with confidence                                                                       ║
-║  → Learn relentlessly                                                                         ║
-║                                                                                               ║
-╚═══════════════════════════════════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-<br>
-
-<!-- ====================================== -->
-<!-- RUNTIME LOOP -->
-<!-- ====================================== -->
-
-<div align="center">
-
-```javascript
-// Main Execution Loop
-while (alive) {
-  explore();
-  learn();
-  build();
-  ship();
-  iterate();
-  optimize();
-}
-
-// Process complete. System ready for next challenge.
-```
-
-</div>
-
-<br>
-
-<!-- ====================================== -->
-<!-- SYSTEM ACTIVITY LOG -->
-<!-- ====================================== -->
-
-<div align="center">
-
-```
-████████████████████████████████████████████████████████████████████████████████████████████████
-                                  SYSTEM ACTIVITY LOG                                           
-████████████████████████████████████████████████████████████████████████████████████████████████
-```
-
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kishore-balaji/kishore-balaji/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kishore-balaji/kishore-balaji/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
-</picture>
-
-<br><br>
-
-```
-> ACTIVITY_MONITOR: TRACKING CONTRIBUTIONS...
-> COMMITS: DAILY | STREAKS: ACTIVE | CONSISTENCY: HIGH
-> LAST_PUSH: RECENT | STATUS: BUILDING
-```
-
-</div>
-
-<br>
-
-<!-- ====================================== -->
-<!-- FOOTER -->
-<!-- ====================================== -->
-
-<div align="center">
-
-```
-████████████████████████████████████████████████████████████████████████████████████████████████
-
-> SYSTEM SIGNATURE: Designed with precision • Built with passion • Powered by curiosity
-> OPEN_FOR: Collaborations • Innovative Projects • Knowledge Exchange
-> STATUS: Ready to build the future, one commit at a time
-
-████████████████████████████████████████████████████████████████████████████████████████████████
-
-[EOF]
-
-████████████████████████████████████████████████████████████████████████████████████████████████
-```
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Game" />
 
 </div>
