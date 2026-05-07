@@ -275,7 +275,6 @@ const playerStrategy = {
 </div>
 
 ---
----
 
 ## 🏆 Hackathon Battle Log
 
