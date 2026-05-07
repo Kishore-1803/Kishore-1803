@@ -276,11 +276,13 @@ const playerStrategy = {
 
 ---
 
+---
+
 ## 🏆 Hackathon Battle Log
 
 <div align="center">
 
-| 🥇 Tournament | 📅 Year | 🎖️ Rank | 🏅 Badge |
+| Tournament | Year | Rank | Badge |
 |:---|:---:|:---:|:---:|
 | ⚔️ **SUPERHACK** | 2025 | 🥈 Runner Up | `Epic` |
 | 🇮🇳 **BUILD WITH INDIA** | 2025 | 🏅 Top 20% | `Rare` |
@@ -288,6 +290,7 @@ const playerStrategy = {
 | 🌊 **PROVIDENCE LEAP IDEATHON** | 2024 | 🔥 Semifinalist | `Common` |
 
 </div>
+
 ---
 ## 🌈 Player's Tavern (Fun Zone)
 
