@@ -287,13 +287,6 @@ const playerStrategy = {
 | 🇮🇳 **BUILD WITH INDIA** | 2025 | 🏅 Top 20% | `Rare` |
 | 💡 **INNOVATEFINLIT** | 2025 | 🎯 Finalist | `Rare` |
 | 🌊 **PROVIDENCE LEAP IDEATHON** | 2024 | 🔥 Semifinalist | `Common` |
-🏆 TOURNAMENT RECORD 🏆
-┌────────────────────────────────────────────────────┐
-│ ⚔️ SUPERHACK           ████████████████████ RUNNER UP  │
-│ 🇮🇳 BUILD WITH INDIA   █████████████████░░░ TOP 20%    │
-│ 💡 INNOVATEFINLIT      ████████████████░░░░ FINALIST   │
-│ 🌊 PROVIDENCE IDEATHON ███████████████░░░░░ SEMIFINAL  │
-└────────────────────────────────────────────────────┘
 
 </div>
 ---
